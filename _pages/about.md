@@ -16,26 +16,21 @@ His current research interests include AI for Software Engineering, Mining Softw
 
 I am looking for highly motivated Postdoctoral Research Fellows/Research Assistants and Ph.D./MPhil students with strong backgrounds in Data Mining, Artificial Intelligence, Software Security, and Software Engineering. Undergraduate students who are interested in my research are also welcome to join us.
 
-A data-driven personal website
+Current Research
 ======
 
-Getting started
-======
-
-
-Site-wide configuration
+Software Artifact Analysis
 ------
 
-Create content & metadata
+Software Security
 ------
 
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
+AI for Software Engineering
 ------
+
+**Bug Localization**
+
+
 
 
 For more info
