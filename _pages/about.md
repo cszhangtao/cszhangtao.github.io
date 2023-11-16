@@ -1,14 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I received my B.S. in Automation and M.Eng in Software Engineering from Northeastern University, China. I obtained my Ph.D. degree in Computer Science from the [University of Seoul](https://english.uos.ac.kr/), under the supervision of Prof. Byungjeong Lee. After that, I spent one year at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) as a Postdoctoral Research Fellow advised by Prof. Xiapu Luo. Currently, I am an associate professor at the School of Computer Science and Engineering (Former Faculty of Information Technology), [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en). 
+
+My current research interests include AI for Software Engineering, Mining Software Repositories, and Software Security.
+
+I am looking for highly motivated Postdoctoral Research Fellows/Research Assistants and Ph.D./MPhil students with strong backgrounds in Data Mining, Artificial Intelligence, Software Security, and Software Engineering. Undergraduate students who are interested in my research are also welcome to join us.
 
 A data-driven personal website
 ======
