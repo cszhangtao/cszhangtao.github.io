@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https://scholar.google.com/citations?user=eMfANKoAAAAJ&hl=en)
+*More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https://scholar.google.com/citations?user=eMfANKoAAAAJ&hl=en)*
 
 2023
 ======
