@@ -12,7 +12,7 @@ Dr. Tao Zhang is an Associate Professor at the School of Computer Science and Te
 
 Tao is a senior member of ACM and IEEE. He published more than 90 high-quality papers in renowned software engineering and security journals and conferences such as ICSE, ESEC/FSE, ASE, TSE, TOSEM, EMSE, JSS, and IST. He served as the General Chair of SANER 2023 and the PC member of several top-tier SE conferences including ICSE, FSE, and ASE. He serves as an Editorial Board Member of the Journal of Systems and Software and an ACM TOSEM Board Member of Distinguished Reviewers.
 
-His current research interests include AI for Software Engineering, Mining Software Repositories, and Software Security.
+His current research interests include Software Artifact Analysis, AI for Software Engineering, and Software Security.
 
 He is looking for highly motivated Postdoctoral Research Fellows/Research Assistants and Ph.D./Master students with strong backgrounds in Data Mining, Artificial Intelligence, Software Security, and Software Engineering. 
 
