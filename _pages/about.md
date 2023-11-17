@@ -33,7 +33,7 @@ AI for Software Engineering
 
 
 
-Contact info
+Contact Information
 ======
 You can find me at A321, Macau University of Science and Technology, Taipa, Macau SAR, or send me an email via tazhang[at]must.edu.mo.
 
