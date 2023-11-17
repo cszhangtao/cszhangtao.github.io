@@ -21,18 +21,19 @@ Current Research
 
 Software Artifact Analysis
 ------
+1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews [(TSE'23)](/assets/CV.pdf)
+2. Where2Change: Change Request Localization for App Reviews [(TSE'21)](/assets/CV.pdf)
 
-Software Security
-------
 
 AI for Software Engineering
 ------
-
-**Bug Localization**
-
-
+1. Do Pre-trained Language Models Indeed Understand Software Engineering Tasks? [(TSE'23)](/assets/CV.pdf)
+2. RepresentThemAll: A Universal Learning Representation of Bug Reports [(ICSE'23)](/assets/CV.pdf) 
 
 
-For more info
-------
+
+
+Contact info
+======
+You can find me at A321, Macau University of Science and Technology, Taipa, Macau SAR, or send me an email via tazhang[at]must.edu.mo.
 
