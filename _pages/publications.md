@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Selected Publications (More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https://scholar.google.com/citations?user=eMfANKoAAAAJ&hl=en))"
 permalink: /publications/
 author_profile: true
 ---
