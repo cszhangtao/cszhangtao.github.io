@@ -21,14 +21,14 @@ Current Research
 
 Software Artifact Analysis
 ------
-1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews [(TSE'23)](/assets/CV.pdf)
-2. Where2Change: Change Request Localization for App Reviews [(TSE'21)](/assets/CV.pdf)
+1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews [(TSE'23)](/assets/TSE_2023d.pdf)
+2. Where2Change: Change Request Localization for App Reviews [(TSE'21)](/assets/TSE_2021c.pdf)
 
 
 AI for Software Engineering
 ------
-1. Do Pre-trained Language Models Indeed Understand Software Engineering Tasks? [(TSE'23)](/assets/CV.pdf)
-2. RepresentThemAll: A Universal Learning Representation of Bug Reports [(ICSE'23)](/assets/CV.pdf) 
+1. Do Pre-trained Language Models Indeed Understand Software Engineering Tasks? [(TSE'23)](/assets/TSE_2023e.pdf)
+2. RepresentThemAll: A Universal Learning Representation of Bug Reports [(ICSE'23)](/assets/ICSE_2023.pdf) 
 
 
 
