@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Service"
+title: "Professional Service"
 permalink: /service/
 author_profile: true
 ---
-
-Professional Service
-======
 
 - Editorial Board Member of the Journal of Systems and Software (JSS)
 - ACM TOSEM Board Member of Distinguished Reviewers
