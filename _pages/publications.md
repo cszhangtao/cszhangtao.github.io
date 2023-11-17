@@ -43,7 +43,7 @@ Jingxuan Zhang, He Jiang, Zhilei Ren, **Tao Zhang**, and Zhiqiu Huang, Enriching
 
 Le Yu, Xiapu Luo, Jiachi Chen, Hao Zhou, **Tao Zhang**, Henry Chang, and Hareton K. N. Leung, PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies, *IEEE Transactions on Software Engineering (TSE)*, Vol. 47, No. 2, pp. 221-242, February 2021.
 
-2020-2017
+Before 2021
 ======
 
 Yiran Shen, Chengwen Luo, Hongkai Wen, **Tao Zhang**, Wen Hu, and Daniela Rus, GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait, *IEEE Transactions on Dependable and Secure Computing (TDSC)*, Vol. 16, No. 3, pp. 484-497, May 2019.
