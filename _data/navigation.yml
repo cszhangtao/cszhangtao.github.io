@@ -13,8 +13,8 @@ main:
     url: /grants/
         
   - title: "Awards"
-    url: /year-archive/
+    url: /award/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Group Activities"
+    url: /Group/
     
