@@ -4,7 +4,7 @@ title: "Group Activities"
 permalink: /group/
 author_profile: true
 ---
-## Communication with SYSU Blockchain Group
+## Exchange Activity with SYSU Blockchain Group
 ![Communication](/images/Communication_SYSU.jpg "Communication with SYSU Blockchain Group")
 
 ## Group Lunch
