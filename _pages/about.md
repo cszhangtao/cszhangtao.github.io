@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me [CV](/assets/CV.pdf)"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
