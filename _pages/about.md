@@ -14,7 +14,7 @@ Tao is a senior member of ACM and IEEE. He published more than 90 high-quality p
 
 His current research interests include AI for Software Engineering, Mining Software Repositories, and Software Security.
 
-I am looking for highly motivated Postdoctoral Research Fellows/Research Assistants and Ph.D./MPhil students with strong backgrounds in Data Mining, Artificial Intelligence, Software Security, and Software Engineering. Undergraduate students who are interested in my research are also welcome to join us.
+He is looking for highly motivated Postdoctoral Research Fellows/Research Assistants and Ph.D./Master students with strong backgrounds in Data Mining, Artificial Intelligence, Software Security, and Software Engineering. 
 
 Current Research
 ======
