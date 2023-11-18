@@ -10,6 +10,7 @@ Ph.D. Students
 ======
 
 - Guocang Yang (MUST, 2023.09-Now)
+  
     Research Interests: SQL, Database Systems
 
 - Yao Li (MUST, 2021.09-Now)
