@@ -71,7 +71,7 @@ author_profile: true
 2019
 ======
 - Track Co-Chair, Software Engineering Track, 34th ACM/SIGAPP Symposium on Applied Computing (SAC 2019)
-- Publicity Chair, 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2019)
+- Publicity Chair, 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019)
 - Publicity Co-Chair, 19th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2019)
 - Organizing Committee Co-Chair, 1st IEEE International Workshop on Intelligent Bug Fixing (IBF 2019)
 
