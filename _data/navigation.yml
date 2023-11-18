@@ -15,6 +15,9 @@ main:
   - title: "Awards"
     url: /award/
     
+   - title: "Group Members"
+    url: /member/
+    
   - title: "Group Activities"
     url: /group/
     
