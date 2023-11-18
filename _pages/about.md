@@ -29,7 +29,7 @@ Software Artifact Analysis
 
 AI for Software Engineering
 ------
-*"We tend to utilize AI technologies such as neural network language models and large language models to create a series of automated software engineering tools to help software developers develop high-quality software products."*
+*"We tend to utilize AI technologies such as neural network language models and large language models to create a series of automated software engineering tools to help software engineers develop high-quality software products."*
 
 1. Do Pre-trained Language Models Indeed Understand Software Engineering Tasks? [(TSE'23)](/assets/TSE_2023e.pdf)
 2. RepresentThemAll: A Universal Learning Representation of Bug Reports [(ICSE'23)](/assets/ICSE_2023.pdf) 
