@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tao Zhang/Personal Homepage "
+title                    : "Tao Zhang (張濤)"
 title_separator          : "-"
 name                     : &name "Tao Zhang"
 description              : &description "Associate Professor at Macau University of Science and Technology"
