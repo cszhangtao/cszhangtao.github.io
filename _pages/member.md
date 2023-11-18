@@ -7,7 +7,7 @@ author_profile: true
 (MUST: Macau University of Science and Technology; HEU: Harbin Engineering University)
 
 Ph.D. Students
-======
+------
 
 - Guocang Yang (MUST, 2023.09-Now)
   - Research Interests: SQL, Database Systems
@@ -16,7 +16,7 @@ Ph.D. Students
   - Research Topic: *Cognizant Defense against Android Malware: Intuitive Classification and Explication of Harmful Effects*
 
 Master Students
-======
+------
 
 - Ruixiong Yang (MUST, 2023.09-Now)
   - Research Interests: LLM for Automated Software Engineering Tasks
@@ -43,13 +43,13 @@ Master Students
   - Research Topic: *Bug Discovery from App User Reviews Using Sentiment Analysis*
 
 Research Assistant
-======
+------
 
 - Jie Cai (MUST, 2023.06-Now)
   - Research Interests: Vulnerability Detection in Smart Contracts
 
 Alumni
-======
+------
 
 - Dawei Yuan (Ph.D., MUST, 2020.09-2023.11)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
