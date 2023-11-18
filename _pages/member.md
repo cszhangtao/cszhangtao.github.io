@@ -32,20 +32,55 @@ Master Students
   - Research Interests: Video Analysis in Software Artifacts
 
 - Chang Hu (MUST, 2022.09-Now)
-  - Research Interests: Automated Program Repair
   - Research Topic: *Automatic Program Repair Based on Large Language Models*
 
 - Yansheng Liao (MUST, 2022.09-Now)
-  - Research Interests: Bug Localization
   - Research Topic: *A New Framework for Security Bug Report Identification*
 
 - Zhengquan Li (MUST, 2022.09-Now)
-  - Research Interests: User Review Analysis
   - Research Topic: *Guiding Users on How to Effectively Use Apps by Automated Responses*
 
 - Junhao Chen (MUST, 2022.09-Now)
-  - Research Interests: User Review Analysis
   - Research Topic: *Bug Discovery from App User Reviews Using Sentiment Analysis*
+
+Research Assistant
+======
+
+- Jie Cai (MUST, 2023.06-Now)
+  - Research Interests: Vulnerability Detection in Smart Contracts
+
+Alumni
+======
+
+- Dawei Yuan (Ph.D., MUST, 2020.09-2023.11)
+  - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
+
+- Xiaohui Wang (Master, MUST, 2021.09-2023.07)
+  - Thesis: *Analyzing User Reviews for App Release Strategy*
+
+- Youshuai Tan (Master, MUST, 2021.09-2023.06)
+  - Thesis: *STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews*
+
+- Xiao Peng (Master, MUST, 2020.09-2022.06)
+  - Thesis: *Towards Context-Aware Based Bug Localization*
+
+- Yutong He (Master, MUST, 2020.09-2022.06)
+  - Thesis: *Q2Q: A Query-to-Query Neural Code Search Approach*
+
+- Zijie Chen (Master, MUST, 2020.09-2022.06)
+  - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
+
+- Jianwei Zeng (Master, MUST, 2020.09-2022.06)
+  - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
+
+- Lingze Meng (Master, MUST, 2019.09-2021.09)
+  - Thesis: *Bug Report Enrichment Based on BERT Model*
+
+- Haoming Li (Master, HEU, 2017.09-2020.03)
+  - Thesis: *The Research on Automatic Labeling Method for Mobile Application Issue Reports*
+  
+
+    
   
   
 
