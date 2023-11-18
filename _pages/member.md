@@ -13,7 +13,6 @@ Ph.D. Students
   - Research Interests: SQL, Database Systems
 
 - Yao Li (MUST, 2021.09-Now)
-  - Research Interests: Malware Detection
   - Research Topic: *Cognizant Defense against Android Malware: Intuitive Classification and Explication of Harmful Effects*
 
 Master Students
