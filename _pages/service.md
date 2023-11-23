@@ -8,7 +8,7 @@ author_profile: true
 - Editorial Board Member of the Journal of Systems and Software (JSS)
 - ACM TOSEM Board Member of Distinguished Reviewers
 - Steering Committee Member of IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023-Now
-- Referee of Top-tier Journals including ACM Computing Surveys (CSUR), ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), IEEE Software, Automated Software Engineering Journal (ASEJ), Journal of Software: Evolution and Process (JSEP), Journal of Systems and Software (JSS), and Information and Software Technology (IST). 
+- Referee of Top-tier Journals including ACM Computing Surveys (CSUR), ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), IEEE Transactions on Dependable and Secure Computing (TDSC), Empirical Software Engineering (EMSE), IEEE Software, Automated Software Engineering Journal (ASEJ), Journal of Software: Evolution and Process (JSEP), Journal of Systems and Software (JSS), and Information and Software Technology (IST). 
 
 2025
 ======
