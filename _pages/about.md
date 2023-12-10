@@ -5,7 +5,6 @@ excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 Dr. Tao Zhang is an Associate Professor at the School of Computer Science and Engineering, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en), Macau SAR. He received his Ph.D. degree from the Department of Computer Science and Engineering at the University of Seoul, under the supervision of Prof. Byungjeong Lee. After that, he spent one year at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) as a Postdoctoral Research Fellow advised by [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He received his B.S. in Automation and M.Eng in Software Engineering from Northeastern University, China.
@@ -14,7 +13,7 @@ Tao is a senior member of ACM and IEEE. He published more than 90 high-quality p
 
 His current research interests include Software Artifact Analysis, AI for Software Engineering, and Software Security.
 
-<font color=blue>He is looking for highly motivated Postdoctoral Research Fellows/Research Assistants and Ph.D./Master students with strong backgrounds in Data Mining, Artificial Intelligence, Software Security, and Software Engineering.</font> 
+<font color=blue>He is looking for highly motivated Postdoctoral Research Fellows/Research Assistants and Ph.D./Master students with strong backgrounds in Data Mining, Artificial Intelligence, Software Security, and Software Engineering.</font><br> 
 
 
 Current Research
