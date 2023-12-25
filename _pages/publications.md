@@ -6,12 +6,15 @@ author_profile: true
 ---
 More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https://scholar.google.com/citations?user=eMfANKoAAAAJ&hl=en)
 
+2024
+======
+
+Sicong Cao, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, **Tao Zhang**, and Wei Liu, Learning to Detect Memory-Related Vulnerabilities, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 2, Article No. 43, pp. 1-35, February 2024.
+
 2023
 ======
 
-Sicong Cao, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, **Tao Zhang**, and Wei Liu, Learning to Detect Memory-Related Vulnerabilities, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2023.
-
-Yao Li, **Tao Zhang**, Xiapu Luo, Haipeng Cai, Sen Fang, and Dawei Yuan, Do Pre-trained Language Models Indeed Understand Software Engineering Tasks? *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 10, pp. 4639-4655, October 2023.
+Yao Li, **Tao Zhang**, Xiapu Luo, Haipeng Cai, Sen Fang, and Dawei Yuan, Do Pretrained Language Models Indeed Understand Software Engineering Tasks? *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 10, pp. 4639-4655, October 2023.
 
 Youshuai Tan, Jinfu Chen, Weiyi Shang, **Tao Zhang**, Sen Fang, Xiapu Luo, Zijie Chen, and Shuhao Qi, STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews, *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 8, pp. 4135-4151, August 2023.
 
