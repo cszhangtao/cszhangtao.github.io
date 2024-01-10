@@ -18,9 +18,8 @@ author_profile: true
 ======
 - PC Member, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)
 - PC Member, 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
-- Referee (ACL Rolling Review), 62nd Annual Meeting of the Associate for Computational Linguistics (ACL 2024)
-- Referee (ACL Rolling Review), 18th Conference of the European Chapter of the Associate for Computational Linguistics (EACL 2024)
-- Referee (ACL Rolling Review), 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+- PC Member, 1st International Conference on AI Foundation Models and Software Engineering (FORGE 2024)
+- PC Member, Artifact Track, 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2024)
 
 2023
 ======
