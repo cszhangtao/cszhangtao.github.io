@@ -33,7 +33,7 @@ Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen
 2022
 ======
 
-Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, pp. 722-733, Nov. 14-18, 2022.
+Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search?", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, pp. 722-733, Nov. 14-18, 2022.
 
 Liu Wang, Haoyu Wang, Xiapu Luo, **Tao Zhang**, Shangguang Wang, and Xuanzhe Liu, "Demystifying "Removed Reviews" in iOS App Store", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, Industry Track, pp. 1489-1499, Nov. 14-18, 2022.
 
