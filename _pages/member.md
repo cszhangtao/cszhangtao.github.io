@@ -45,11 +45,13 @@ Master Students
 Research Assistant
 ------
 
-- Jie Cai (MUST, 2023.06-Now)
-  - Research Interests: Vulnerability Detection in Smart Contracts
+
 
 Alumni
 ------
+
+- Jie Cai (MUST, 2023.06-Now)
+  - Research Interests: Vulnerability Detection in Smart Contracts
 
 - Dawei Yuan (Ph.D., MUST, 2020.09-2023.11)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
