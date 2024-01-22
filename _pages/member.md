@@ -42,15 +42,11 @@ Master Students
 - Junhao Chen (MUST, 2022.09-Now)
   - Research Topic: *Bug Discovery from App User Reviews Using Sentiment Analysis*
 
-Research Assistant
-------
-
-
 
 Alumni
 ------
 
-- Jie Cai (MUST, 2023.06-Now)
+- Jie Cai (RA, MUST, 2023.06-Now)
   - Research Interests: Vulnerability Detection in Smart Contracts
 
 - Dawei Yuan (Ph.D., MUST, 2020.09-2023.11)
