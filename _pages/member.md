@@ -46,7 +46,7 @@ Master Students
 Alumni
 ------
 
-- Jie Cai (RA, MUST, 2023.06-Now)
+- Jie Cai (RA, MUST, 2023.06-2024.02)
   - Research Interests: Vulnerability Detection in Smart Contracts
 
 - Dawei Yuan (Ph.D., MUST, 2020.09-2023.11)
