@@ -9,7 +9,7 @@ redirect_from:
 
 Dr. Tao Zhang is an Associate Professor at the School of Computer Science and Engineering, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en), Macau SAR. He received his Ph.D. degree from the Department of Computer Science and Engineering at the University of Seoul, under the supervision of Prof. Byungjeong Lee. After that, he spent one year at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) as a Postdoctoral Research Fellow advised by [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He received his B.S. in Automation and M.Eng in Software Engineering from Northeastern University, China.
 
-Tao is a senior member of ACM and IEEE. He served as the General Chair of SANER 2023 and the Program Co-Chairs of Internetware 2024 and DSA 2021. He is currently an Associate Editor of the Journal of Systems and Software (JSS) and an ACM TOSEM Board Member of Distinguished Reviewers.
+Tao is a senior member of ACM and IEEE. He served as the General Chair of SANER 2023 and the Program Co-Chairs of Internetware 2024 and DSA 2021. He is currently serving as an Associate Editor for IEEE Transactions on Software Engineering (TSE) and Journal of Systems and Software (JSS).
 
 His current research interests include Software Artifact Analysis, AI for Software Engineering, and Software Security. He published more than 90 high-quality papers in renowned software engineering and security journals and conferences such as ICSE, ESEC/FSE, ASE, TSE, TOSEM, EMSE, TIFS, and TDSC.
 
