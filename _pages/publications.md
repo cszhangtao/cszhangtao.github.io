@@ -9,6 +9,8 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 2024
 ======
 
+He Jiang, Zun Wang, Zhide Zhou, Xiaochen Li, Shikai Guo, Weifeng Sun, and **Tao Zhang**, "A Testing Program and Pragma Combination Selection Based Framework for High-Level Synthesis Tool Pragma-Related Bug Detection", *IEEE Transactions on Software Engineering (TSE)*, Accepted, 2024. 
+
 Guodong Fan, Shizhan Chen, Cuiyun Gao, Jianmao Xiao, **Tao Zhang**, and Zhiyong Feng, "Rapid: Zero-shot Domain Adaptation for Code Search with Pre-trained Models", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2024.
 
 Sicong Cao, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, **Tao Zhang**, and Wei Liu, "Learning to Detect Memory-Related Vulnerabilities", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 2, Article No. 43, pp. 1-35, February 2024.
