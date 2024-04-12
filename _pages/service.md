@@ -22,6 +22,8 @@ author_profile: true
 - Registration Chair, 2024 IEEE World Congress on Services (SERVICES 2024)
 - PC Member, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)
 - PC Member, 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
+- PC Member, 35th IEEE International Symposium on Software Reliability Engineering (ISSRE 2024)
+- PC Member, 31st Asia-Pacific Software Engineering Conference (APSEC 2024)
 - PC Member, 24th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2024)
 - PC Member, 1st International Conference on AI Foundation Models and Software Engineering (FORGE 2024)
 - PC Member, Artifact Track, 19th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2024)
