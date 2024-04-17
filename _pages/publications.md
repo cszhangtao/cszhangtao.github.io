@@ -8,6 +8,7 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 
 2024
 ======
+Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *Proc. of the ACM on Software Engineering (PACMSE)*, Issue FSE 2024, Accepted, 2024.
 
 He Jiang, Zun Wang, Zhide Zhou, Xiaochen Li, Shikai Guo, Weifeng Sun, and **Tao Zhang**, "A Testing Program and Pragma Combination Selection Based Framework for High-Level Synthesis Tool Pragma-Related Bug Detection", *IEEE Transactions on Software Engineering (TSE)*, Accepted, 2024. 
 
