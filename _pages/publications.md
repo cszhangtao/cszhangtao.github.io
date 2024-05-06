@@ -8,6 +8,8 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 
 2024
 ======
+Yao Li, Dawei Yuan, **Tao Zhang**, Haipeng Cai, David Lo, Cuiyun Gao, Xiapu Luo, and He Jiang, “Meta-Learning for Multi-Family Android Malware Classification”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2024.
+
 Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *Proc. of the ACM on Software Engineering (PACMSE)*, Issue FSE 2024, Accepted, Jul. 15-19, 2024.
 
 Guodong Fan, Shizhan Chen, Cuiyun Gao, Jianmao Xiao, **Tao Zhang**, and Zhiyong Feng, "Rapid: Zero-shot Domain Adaptation for Code Search with Pre-trained Models", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2024.
