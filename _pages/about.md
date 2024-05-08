@@ -23,15 +23,15 @@ AI for Software Engineering
 ------
 > *"Tend to utilize AI technologies such as neural network language models and large language models to create a series of automated software engineering tools to help software engineers develop high-quality software products."*
 
-1. Do Pretrained Language Models Indeed Understand Software Engineering Tasks? [(TSE'23)](/assets/TSE_2023e.pdf)
-2. RepresentThemAll: A Universal Learning Representation of Bug Reports [(ICSE'23)](/assets/ICSE_2023.pdf) 
+1. Do Pretrained Language Models Indeed Understand Software Engineering Tasks? [TSE'23](https://ieeexplore.ieee.org/document/10232920)
+2. RepresentThemAll: A Universal Learning Representation of Bug Reports [ICSE'23](https://ieeexplore.ieee.org/document/10172597)
 
 Software Artifact Analysis
 ------
 > *"Tend to utilize information retrieval and machine learning technologies to mine meaningful information from software artifacts to help software developers increase the efficiency of software production."*
 
-1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews [(TSE'23)](/assets/TSE_2023d.pdf)
-2. Where2Change: Change Request Localization for App Reviews [(TSE'21)](/assets/TSE_2021c.pdf)
+1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews [TSE'23](https://ieeexplore.ieee.org/document/10149402)
+2. Where2Change: Change Request Localization for App Reviews [TSE'21](https://ieeexplore.ieee.org/document/8924692)
 
 
 Contact Information
