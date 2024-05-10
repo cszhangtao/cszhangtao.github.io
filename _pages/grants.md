@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Research Grants"
+title: "Competitive Research Grants"
 permalink: /grants/
 author_profile: true
 ---
