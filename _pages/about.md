@@ -26,6 +26,13 @@ AI for Software Engineering
 1. Do Pretrained Language Models Indeed Understand Software Engineering Tasks? ([TSE'23](https://ieeexplore.ieee.org/document/10232920))
 2. RepresentThemAll: A Universal Learning Representation of Bug Reports ([ICSE'23](https://ieeexplore.ieee.org/document/10172597))
 
+Software Security
+------
+> *"Tend to utilize static analysis, AI technologies, and formal methods to detect malware, vulnerabilities, and privacy policy leak from mobile apps and smart contracts."*
+
+1. Meta-Learning for Multi-Family Android Malware Classification ([TOSEM'24](https://dl.acm.org/doi/10.1145/3664806))
+
+
 Software Artifact Analysis
 ------
 > *"Tend to utilize information retrieval and machine learning technologies to mine meaningful information from software artifacts to help software developers increase the efficiency of software production."*
