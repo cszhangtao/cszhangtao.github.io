@@ -20,7 +20,6 @@ Sicong Cao, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, 
 
 2023
 ======
-
 Yao Li, **Tao Zhang**, Xiapu Luo, Haipeng Cai, Sen Fang, and Dawei Yuan, "Do Pretrained Language Models Indeed Understand Software Engineering Tasks?", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 10, pp. 4639-4655, October 2023.
 
 Youshuai Tan, Jinfu Chen, Weiyi Shang, **Tao Zhang**, Sen Fang, Xiapu Luo, Zijie Chen, and Shuhao Qi, "STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 8, pp. 4135-4151, August 2023.
@@ -37,6 +36,7 @@ Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen
 
 2022
 ======
+Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, **Tao Zhang**, Bin Li, Jiale Zhang, and Sicong Cao, “SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models”, *Empirical Software Engineering (EMSE)*, Vol. 27, No. 7, Article 171, December 2022. 
 
 Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search?", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, pp. 722-733, Nov. 14-18, 2022.
 
@@ -46,7 +46,6 @@ He Ye, Matias Martinez, Xiapu Luo, **Tao Zhang**, and Martin Monperrus, "SelfAPR
 
 2021
 ======
-
 **Tao Zhang**, Jiachi Chen, Xian Zhan, Xiapu Luo, David Lo, and He Jiang, "Where2Change: Change Request Localization for App Reviews", *IEEE Transactions on Software Engineering (TSE)*, Vol. 47, No. 11, pp. 2590-2616, November 2021. 
 
 Jingxuan Zhang, He Jiang, Zhilei Ren, **Tao Zhang**, and Zhiqiu Huang, "Enriching API Documentation with Code Samples and Usage Scenarios from Crowd Knowledge", *IEEE Transactions on Software Engineering (TSE)*, Vol. 47, No. 6, pp. 1299-1314, June 2021.
@@ -55,7 +54,6 @@ Le Yu, Xiapu Luo, Jiachi Chen, Hao Zhou, **Tao Zhang**, Henry Chang, and Hareton
 
 Before 2021
 ======
-
 Yiran Shen, Chengwen Luo, Hongkai Wen, **Tao Zhang**, Wen Hu, and Daniela Rus, "GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait", *IEEE Transactions on Dependable and Secure Computing (TDSC)*, Vol. 16, No. 3, pp. 484-497, May 2019.
 
 He Jiang, Liming Nie, Zeyi Sun, Zhilei Ren, Weiqiang Kong, **Tao Zhang**, and Xiapu Luo, "ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets", *IEEE Transactions on Services Computing (TSC)*, Vol. 12, No. 1, pp. 34-46, January 2019.
