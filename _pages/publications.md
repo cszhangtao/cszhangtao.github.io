@@ -36,7 +36,7 @@ Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen
 
 2022
 ======
-Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, **Tao Zhang**, Bin Li, Jiale Zhang, and Sicong Cao, “SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models”, *Empirical Software Engineering (EMSE)*, Vol. 27, No. 7, Article 171, December 2022. 
+Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, **Tao Zhang**, Bin Li, Jiale Zhang, and Sicong Cao, "SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models", *Empirical Software Engineering (EMSE)*, Vol. 27, No. 7, Article 171, December 2022. 
 
 Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search?", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, pp. 722-733, Nov. 14-18, 2022.
 
