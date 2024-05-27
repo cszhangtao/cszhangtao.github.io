@@ -13,6 +13,7 @@ author_profile: true
 
 2025
 ======
+- Proceedings Co-Chair, 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)
 - PC Member, 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)
 - PC Member, 47th International Conference on Software Engineering (ICSE 2025)
 
