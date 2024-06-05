@@ -12,7 +12,7 @@ Yao Li, Dawei Yuan, **Tao Zhang**, Haipeng Cai, David Lo, Cuiyun Gao, Xiapu Luo,
 
 Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *Proc. of the ACM on Software Engineering (PACMSE)*, Issue FSE 2024, Accepted, Jul. 15-19, 2024.
 
-Guodong Fan, Shizhan Chen, Cuiyun Gao, Jianmao Xiao, **Tao Zhang**, and Zhiyong Feng, "Rapid: Zero-shot Domain Adaptation for Code Search with Pre-trained Models", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2024.
+Guodong Fan, Shizhan Chen, Cuiyun Gao, Jianmao Xiao, **Tao Zhang**, and Zhiyong Feng, "Rapid: Zero-shot Domain Adaptation for Code Search with Pre-trained Models", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 5, Article No. 128, pp. 1-35, June 2024.
 
 He Jiang, Zun Wang, Zhide Zhou, Xiaochen Li, Shikai Guo, Weifeng Sun, and **Tao Zhang**, "A Testing Program and Pragma Combination Selection Based Framework for High-Level Synthesis Tool Pragma-Related Bug Detection", *IEEE Transactions on Software Engineering (TSE)*, Vol. 50, No. 4, pp. 937-955, April 2024. 
 
