@@ -30,19 +30,6 @@ Master Students
 - Hongrong Yin (MUST, 2023.01-Now)
   - Research Interests: Video Analysis in Software Artifacts
 
-- Chang Hu (MUST, 2022.09-Now)
-  - Research Topic: *Automatic Program Repair Based on Large Language Models*
-
-- Yansheng Liao (MUST, 2022.09-Now)
-  - Research Topic: *A New Framework for Security Bug Report Identification*
-
-- Zhengquan Li (MUST, 2022.09-Now)
-  - Research Topic: *Guiding Users on How to Effectively Use Apps by Automated Responses*
-
-- Junhao Chen (MUST, 2022.09-Now)
-  - Research Topic: *Bug Discovery from App User Reviews Using Sentiment Analysis*
-
-
 Alumni
 ------
 
@@ -51,6 +38,18 @@ Alumni
 
 - Dawei Yuan (Ph.D., MUST, 2020.09-2023.11)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
+
+- Chang Hu (Master, MUST, 2022.09-2024.06)
+  - Thesis: *Automatic Program Repair Based on Large Language Model*
+
+- Yansheng Liao (Master, MUST, 2022.09-2024.05)
+  - Thesis: *A New Framework for Security Bug Report Identification*
+
+- Zhengquan Li (Master, MUST, 2022.09-2024.05)
+  - Thesis: *Guiding Users on How to Effectively Use Apps by Automated Responses*
+
+- Junhao Chen (Master, MUST, 2022.09-2024.05)
+  - Thesis: *Bug Discovery from App User Reviews Using Sentiment Analysis*
 
 - Xiaohui Wang (Master, MUST, 2021.09-2023.07)
   - Thesis: *Analyzing User Reviews for App Release Strategy*
