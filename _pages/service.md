@@ -6,6 +6,7 @@ author_profile: true
 ---
 - Associate Editor, IEEE Transactions on Software Engineering (TSE), 2024-Present
 - Associate Editor, Journal of Systems and Software (JSS), 2024-Present
+- Editorial Board Member, Science of Computer Programming (SCP), 2024-Present
 - Editorial Board Member, Journal of Systems and Software (JSS), 2022-2024
 - Board Member of Distinguished Reviewers, ACM Transactions on Software Engineering and Methodology (TOSEM), 2022-Present 
 - Steering Committee Member, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023-Present
