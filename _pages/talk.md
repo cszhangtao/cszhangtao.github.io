@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Keynote Talks"
+title: "Talks"
 permalink: /talk/
 author_profile: true
 ---
