@@ -10,7 +10,7 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 ======
 Yao Li, Dawei Yuan, **Tao Zhang**, Haipeng Cai, David Lo, Cuiyun Gao, Xiapu Luo, and He Jiang, “Meta-Learning for Multi-Family Android Malware Classification”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2024.
 
-Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *Proc. of the ACM on Software Engineering (PACMSE)*, Vol. 1, No. FSE, Article 97, Jul. 15-19, 2024.
+Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *Proc. of the ACM on Software Engineering (PACMSE)*, Vol. 1, No. FSE, Article 97, July 15-19, 2024.
 
 Guodong Fan, Shizhan Chen, Cuiyun Gao, Jianmao Xiao, **Tao Zhang**, and Zhiyong Feng, "Rapid: Zero-shot Domain Adaptation for Code Search with Pre-trained Models", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 5, Article No. 128, pp. 1-35, June 2024.
 
@@ -38,11 +38,11 @@ Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen
 ======
 Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, **Tao Zhang**, Bin Li, Jiale Zhang, and Sicong Cao, "SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models", *Empirical Software Engineering (EMSE)*, Vol. 27, No. 7, Article 171, December 2022. 
 
-Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search?", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, pp. 722-733, Nov. 14-18, 2022.
+Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search?", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, pp. 722-733, November 14-18, 2022.
 
-Liu Wang, Haoyu Wang, Xiapu Luo, **Tao Zhang**, Shangguang Wang, and Xuanzhe Liu, "Demystifying "Removed Reviews" in iOS App Store", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, Industry Track, pp. 1489-1499, Nov. 14-18, 2022.
+Liu Wang, Haoyu Wang, Xiapu Luo, **Tao Zhang**, Shangguang Wang, and Xuanzhe Liu, "Demystifying "Removed Reviews" in iOS App Store", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, Industry Track, pp. 1489-1499, November 14-18, 2022.
 
-He Ye, Matias Martinez, Xiapu Luo, **Tao Zhang**, and Martin Monperrus, "SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics", *Proc. of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE'22)*, Article 92, pp. 1-13, Oct. 10-14, 2022.
+He Ye, Matias Martinez, Xiapu Luo, **Tao Zhang**, and Martin Monperrus, "SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics", *Proc. of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE'22)*, Article 92, pp. 1-13, October 10-14, 2022.
 
 2021
 ======
