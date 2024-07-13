@@ -1,1 +1,15 @@
+---
+layout: archive
+title: "Keynote Talks"
+permalink: /talk/
+author_profile: true
+---
 
+1. PI, **A Privacy Leakage Detection System for Mobile Applications Based on Large Language Model**,
+   supported by the *Macao Science and Technology Development Fund (FDCT)*, MOP 785,400, May 2024 - May 2026, In progress.
+2. PI, **Ensemble Detection System Combining Family Information for Android Malware Detection**,
+   supported by the *Macao Science and Technology Development Fund (FDCT)*, MOP 739,700, Sept. 2022 - Sept. 2024, In progress.
+3. PI, **Security Vulnerabilities Localization and Report Generation Method for Closed Source Mobile Apps**,
+   supported by the *Macao Science and Technology Development Fund (FDCT)*, MOP 1,123,000, Sept. 2020 - Sept. 2023, Finished.
+4. PI, **Bug Localization for Mobile Apps**,
+   supported by the *National Natural Science Foundation of China (NSFC)*, CNY 200,000, Jan. 2017 - Dec. 2019, PI, Finished.
