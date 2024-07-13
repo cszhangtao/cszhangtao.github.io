@@ -22,7 +22,6 @@ author_profile: true
 ======
 - Program Co-Chair, 15th Asia-Pacific Symposium on Internetware (Internetware 2024)
 - Registration Chair, 2024 IEEE World Congress on Services (SERVICES 2024)
-- Keynote Speaker, IEEE Services Workshop on Emerging Services in the Greater Bay Area (ES-GBA 2024)
 - PC Member, 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)
 - PC Member, 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
 - PC Member, 35th IEEE International Symposium on Software Reliability Engineering (ISSRE 2024)
