@@ -9,70 +9,70 @@ author_profile: true
 Ph.D. Students
 ------
 
-- Guocang Yang (MUST, 2023.09-Now)
+- Guocang Yang (MUST, 09/2023-Present)
   - Research Interests: SQL, Database Systems
 
-- Yao Li (MUST, 2021.09-Now)
+- Yao Li (MUST, 09/2021-Present)
   - Research Topic: *Cognizant Defense against Android Malware: Intuitive Classification and Explication of Harmful Effects*
 
 Master Students
 ------
 
-- Ruixiong Yang (MUST, 2023.09-Now)
+- Ruixiong Yang (MUST, 09/2023-Present)
   - Research Interests: LLM for Automated Software Engineering Tasks
 
-- Xinyue Li (MUST, 2023.09-Now)
+- Xinyue Li (MUST, 09/2023-Present)
   - Research Interests: LLM for Automated Software Engineering Tasks
 
-- Yiming Sun (MUST, 2023.09-Now)
+- Yiming Sun (MUST, 09/2023-Present)
   - Research Interests: Automated Program Repair
 
-- Hongrong Yin (MUST, 2023.01-Now)
+- Hongrong Yin (MUST, 01/2023-Present)
   - Research Interests: Video Analysis in Software Artifacts
 
 Alumni
 ------
 
-- Jie Cai (RA, MUST, 2023.06-2024.02)
+- Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
 
-- Dawei Yuan (Ph.D., MUST, 2020.09-2023.11)
+- Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
 
-- Chang Hu (Master, MUST, 2022.09-2024.06)
+- Chang Hu (Master, MUST, 09/2022-06/2024)
   - Thesis: *Automatic Program Repair Based on Large Language Model*
 
-- Yansheng Liao (Master, MUST, 2022.09-2024.05)
+- Yansheng Liao (Master, MUST, 09/2022-05/2024)
   - Thesis: *A New Framework for Security Bug Report Identification*
 
-- Zhengquan Li (Master, MUST, 2022.09-2024.05)
+- Zhengquan Li (Master, MUST, 09/2022-05/2024)
   - Thesis: *Guiding Users on How to Effectively Use Apps by Automated Responses*
 
-- Junhao Chen (Master, MUST, 2022.09-2024.05)
+- Junhao Chen (Master, MUST, 09/2022-05/2024)
   - Thesis: *Bug Discovery from App User Reviews Using Sentiment Analysis*
 
-- Xiaohui Wang (Master, MUST, 2021.09-2023.07)
+- Xiaohui Wang (Master, MUST, 09/2021-07/2023)
   - Thesis: *Analyzing User Reviews for App Release Strategy*
 
-- Youshuai Tan (Master, MUST, 2021.09-2023.06)
+- Youshuai Tan (Master, MUST, 09/2021-06/2023)
   - Thesis: *STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews*
 
-- Xiao Peng (Master, MUST, 2020.09-2022.06)
+- Xiao Peng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Towards Context-Aware Based Bug Localization*
 
-- Yutong He (Master, MUST, 2020.09-2022.06)
+- Yutong He (Master, MUST, 09/2020-06/2022)
   - Thesis: *Q2Q: A Query-to-Query Neural Code Search Approach*
 
-- Zijie Chen (Master, MUST, 2020.09-2022.06)
+- Zijie Chen (Master, MUST, 09/2020-06/2022)
   - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
 
-- Jianwei Zeng (Master, MUST, 2020.09-2022.06)
+- Jianwei Zeng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
 
-- Lingze Meng (Master, MUST, 2019.09-2021.09)
+- Lingze Meng (Master, MUST, 09/2019-09/2021)
   - Thesis: *Bug Report Enrichment Based on BERT Model*
 
-- Haoming Li (Master, HEU, 2017.09-2020.03)
+- Haoming Li (Master, HEU, 09/2017-03/2020)
   - Thesis: *The Research on Automatic Labeling Method for Mobile Application Issue Reports*
   
 
