@@ -38,7 +38,7 @@ Mining Software Repositories
 > *"Tend to utilize information retrieval and machine learning technologies to mine meaningful information from software artifacts to help software developers increase the efficiency of software production."*
 
 1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews ([TSE'23](https://ieeexplore.ieee.org/document/10149402))
-2. Where2Change: Change Request Localization for App Reviews ([TSE'21](https://ieeexplore.ieee.org/document/8924692))
+2. Where2Change: Change Request Localization for App Reviews ([TSE'21](/assets/TSE_2021.pdf))
 
 
 Contact Information
