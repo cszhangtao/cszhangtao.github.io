@@ -7,7 +7,7 @@ redirect_from:
   - /about/
 ---
 
-Dr. Tao Zhang is an Associate Professor at the School of Computer Science and Engineering, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en), Macau SAR. He received his Ph.D. degree from the Department of Computer Science and Engineering at the University of Seoul, under the supervision of Prof. Byungjeong Lee. After that, he spent one year at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) as a Postdoctoral Research Fellow advised by [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He received his B.S. in Automation and M.Eng in Software Engineering from Northeastern University, China.
+Dr. Tao Zhang is an Associate Professor at the School of Computer Science and Engineering, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/en), Macau SAR. He received his Ph.D. from the Department of Computer Science and Engineering at the University of Seoul, under the supervision of Prof. Byungjeong Lee. After that, he spent one year at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) as a Postdoctoral Research Fellow, as advised by [Prof. Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). He received his B.S. in Automation and M.Eng in Software Engineering from Northeastern University, China.
 
 Tao is a senior member of ACM and IEEE. He served as the General Chair of SANER 2023 and the Program Co-Chair of Internetware 2024. He is currently serving as an Associate Editor for IEEE Transactions on Software Engineering (TSE) and Journal of Systems and Software (JSS).
 
@@ -21,7 +21,7 @@ Current Research
 
 AI for Software Engineering
 ------
-> *"Tend to utilize AI technologies such as neural network language models and large language models to create a series of automated software engineering tools to help software engineers develop high-quality software products."*
+> *"Tend to utilize AI technologies such as neural language models and large language models to create a series of automated software engineering tools to help software engineers develop high-quality software products."*
 
 1. Do Pretrained Language Models Indeed Understand Software Engineering Tasks? ([TSE'23](https://ieeexplore.ieee.org/document/10232920))
 2. RepresentThemAll: A Universal Learning Representation of Bug Reports ([ICSE'23](https://ieeexplore.ieee.org/document/10172597))
