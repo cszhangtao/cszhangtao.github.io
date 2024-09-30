@@ -13,7 +13,7 @@ Tao is a senior member of ACM and IEEE. He served as the General Chair of SANER 
 
 His current research interests include AI for Software Engineering, Software Security, and Mining Software Repositories. He published more than 100 high-quality papers in renowned software engineering and security journals and conferences such as ICSE, ESEC/FSE, ASE, TSE, TOSEM, EMSE, TIFS, and TDSC.
 
-<font color=blue>Looking for highly motivated Ph.D. students in the areas of Data Mining, Artificial Intelligence, Software Security, and Software Engineering. Please contact me if you have interests.</font><br> 
+<font color=blue>Looking for highly motivated Ph.D. students in the areas of Data Mining, Artificial Intelligence, Software Security, and Software Engineering. Please contact me if you have interests via my email address *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*.</font><br> 
 
 
 Current Research
