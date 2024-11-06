@@ -36,7 +36,7 @@ Alumni
   - Research Interests: Vulnerability Detection in Smart Contracts
 
 - Yao Li (Ph.D., MUST, 09/2021-10/2024)
-  - Research Topic: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
+  - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
 
 - Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
