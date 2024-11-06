@@ -14,9 +14,6 @@ Ph.D. Students
 - Guocang Yang (MUST, 09/2023-Present)
   - Research Interests: SQL, Database Systems
 
-- Yao Li (MUST, 09/2021-Present)
-  - Research Topic: *Cognizant Defense against Android Malware: Intuitive Classification and Explication of Harmful Effects*
-
 Master Students
 ------
 
@@ -37,6 +34,9 @@ Alumni
 
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
+
+- Yao Li (Ph.D., MUST, 09/2020-10/2023)
+  - Research Topic: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
 
 - Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
