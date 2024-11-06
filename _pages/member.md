@@ -35,7 +35,7 @@ Alumni
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
 
-- Yao Li (Ph.D., MUST, 09/2021-10/2024)
+- Yao Li (Ph.D., MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
 
 - Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
