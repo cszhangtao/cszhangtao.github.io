@@ -55,7 +55,7 @@ Program简介
 
 请直接与合作导师张涛教授通过邮件联系： *tazhang[at]must.edu.mo*或者*kerryking.tao[at]gmail.com*
 
-If you have interests to visit our group, please contact Prof. Tao ZHANG via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*
+If you have interests to visit our group, please contact to Prof. Tao Zhang via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*
 
 
 
