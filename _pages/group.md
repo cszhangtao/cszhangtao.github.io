@@ -31,7 +31,7 @@ Program简介
 **全额奖学金博士生**
 
 招生要求
-1. 拥有较好的教育背景（本科学历或者硕士学历为211大学或者世界大学排名前500大学优先考虑）
+1. 拥有较好的教育背景（如果满足条件3中的优先考虑事项，则条件1可忽略）
 2. 拥有较好的英语基础（英语成绩需要满足学校招生基本要求）
 3. 对组内相关研究课题有较为深入的研究基础（以主要作者发表过CCF-A/B类期刊或JCR一区期刊或CCF-B类以上会议论文者优先考虑）
 
@@ -51,6 +51,7 @@ Program简介
 **博士后/研究助理/访问学生/访问学者**
 
 请直接与合作导师张涛教授通过邮件联系： *tazhang[at]must.edu.mo*或者*kerryking.tao[at]gmail.com*
+
 If you have interests to visit our group, please contact Prof. Tao ZHANG via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*
 
 
