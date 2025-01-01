@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Join Us"
+title: "加入我们"
 permalink: /group/
 author_profile: true
 ---
