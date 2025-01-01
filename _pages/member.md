@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group Members"
+title: "Members"
 permalink: /member/
 author_profile: true
 ---
