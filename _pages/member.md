@@ -8,6 +8,12 @@ author_profile: true
 
 <meta name="format-detection" content="telephone=no"/>
 
+Postdoctoral Research Fellow
+------
+
+- Yao Li (MUST, 02/2025-Present)
+  - Research Interests: Malware Detection, Smart Contract Analysis
+
 Ph.D. Students
 ------
 
