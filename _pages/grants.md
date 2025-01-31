@@ -15,5 +15,5 @@ author_profile: true
 3. PI, **Security Vulnerabilities Localization and Report Generation Method for Closed Source Mobile Apps**,
    supported by the *Macao Science and Technology Development Fund (FDCT)*, MOP 1,123,000, 09/2020-09/2023, Finished.
 4. PI, **Bug Localization for Mobile Apps**,
-   supported by the *National Natural Science Foundation of China (NSFC)*, CNY 200,000, 01/2017-12/2019, PI, Finished.
+   supported by the *National Natural Science Foundation of China (NSFC)*, CNY 200,000, 01/2017-12/2019, Finished.
    
