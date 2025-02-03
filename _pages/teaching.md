@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Macau University of Science and Technology
+Macau University of Science and Technology (09/2019-Present)
 ------
 
 **SE252** Software Project Management 
@@ -24,7 +24,7 @@ Macau University of Science and Technology
 
 **CS190** Professional Ethics and Communication Skills 
 
-Harbin Engineering University
+Harbin Engineering University (12/2016-08/2019)
 ------
 
 **201406323** Software Quality Assurance and Testing 
@@ -33,7 +33,7 @@ Harbin Engineering University
 
 **201406421** Advanced Labs in Software Engineering 
 
-Nanjing University of Posts and Telecommunications
+Nanjing University of Posts and Telecommunications (02/2016-12/2016)
 ------
 
 **B0301340S** Algorithm Analysis and Design 
