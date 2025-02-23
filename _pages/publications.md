@@ -9,6 +9,10 @@ author_profile: true
 
 More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https://scholar.google.com/citations?user=eMfANKoAAAAJ&hl=en)
 
+2025
+======
+Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025. 
+
 2024
 ======
 Liu Wang, Haoyu Wang, **Tao Zhang**, Haitao Xu, Guozhu Meng, Peiming Gao, Chen Wei, and Yi Wang, "Android Malware Family Labeling: Perspectives from the Industry", *Proc. of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)*, Industry Showcase Track, pp. 2176-2186, October 27-November 1, 2024.
