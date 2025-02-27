@@ -14,6 +14,10 @@ author_profile: true
 - Steering Committee Member, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023-Present
 - Referee of Top-tier Journals including ACM Computing Surveys (CSUR), ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), IEEE Transactions on Dependable and Secure Computing (TDSC), Empirical Software Engineering (EMSE), IEEE Software, Automated Software Engineering, Journal of Software: Evolution and Process (JSEP), Journal of Systems and Software (JSS), and Information and Software Technology (IST). 
 
+2026
+======
+- PC Member, 48th International Conference on Software Engineering (ICSE 2026)
+  
 2025
 ======
 - General Co-Chair, 32nd Asia-Pacific Software Engineering Conference (APSEC 2025)
