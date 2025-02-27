@@ -30,7 +30,8 @@ Software Security
 ------
 > *"Tend to utilize static analysis, AI technologies, and formal methods to detect malware, vulnerabilities, and privacy leaks from software products such as mobile apps and smart contracts."*
 
-1. Meta-Learning for Multi-Family Android Malware Classification ([TOSEM'24](/assets/TOSEM_2024.pdf))
+1. Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task ([TOSEM'24](https://dl.acm.org/doi/10.1145/3720541))
+2. Meta-Learning for Multi-Family Android Malware Classification ([TOSEM'24](/assets/TOSEM_2024.pdf))
 
 
 Mining Software Repositories
