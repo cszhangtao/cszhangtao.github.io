@@ -32,8 +32,6 @@ Master Students
 - Yiming Sun (MUST, 09/2023-Present)
   - Research Interests: Automated Program Repair
 
-- Hongrong Yin (MUST, 01/2023-Present)
-  - Research Interests: Video Analysis in Software Artifacts
 
 Alumni
 ------
@@ -46,6 +44,9 @@ Alumni
 
 - Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
+
+- Hongrong Yin (Master, MUST, 01/2023-03/2025)
+  - Thesis: *An Innovative Framework for Enhancing Bug Report Information*
 
 - Chang Hu (Master, MUST, 09/2022-06/2024)
   - Thesis: *Automatic Program Repair Based on Large Language Model*
