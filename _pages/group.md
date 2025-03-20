@@ -20,14 +20,6 @@ author_profile: true
 
 Program简介
 ------
->**澳门科技大学计算机科学与工程学院与中山大学软件工程学院联合培养博士生**
-
-招生要求（**如果学生为自费模式，则以下条件适当放宽**）
-1. 拥有良好的教育背景
-2. 拥有良好的英语基础（雅思6.5分或者同等水平英语测试成绩）
-3. 对组内相关研究课题有较为深入的研究基础（以主要作者身份发表过CCF-A/B类期刊或JCR一区顶刊或CCF-B类以上会议论文者优先考虑）
-4. **如果满足条件3中的优先考虑事项，则条件1可忽略**
-
 
 >**全额奖学金博士生**
 
@@ -35,6 +27,14 @@ Program简介
 1. 拥有较好的教育背景
 2. 拥有较好的英语基础（满足学校招生条件中的基本英语成绩要求）
 3. 对组内相关研究课题有较为深入的研究基础（以主要作者发表过CCF-A/B类期刊或JCR一区期刊或CCF-B类以上会议论文者优先考虑）
+4. **如果满足条件3中的优先考虑事项，则条件1可忽略**
+
+>**澳门科技大学计算机科学与工程学院与中山大学软件工程学院联合培养博士生**
+
+招生要求（**如果学生为自费模式，则以下条件适当放宽**）
+1. 拥有良好的教育背景
+2. 拥有良好的英语基础（雅思6.5分或者同等水平英语测试成绩）
+3. 对组内相关研究课题有较为深入的研究基础（以主要作者身份发表过CCF-A/B类期刊或JCR一区顶刊或CCF-B类以上会议论文者优先考虑）
 4. **如果满足条件3中的优先考虑事项，则条件1可忽略**
 
 >**自费博士生**
@@ -55,7 +55,7 @@ Program简介
 
 请直接与合作导师张涛教授通过邮件联系： *tazhang[at]must.edu.mo*或者*kerryking.tao[at]gmail.com*
 
-If you have interests to visit our group, please contact to Prof. Tao Zhang via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*
+If you are interested in visiting our group, please contact Prof. Tao Zhang via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*
 
 
 
