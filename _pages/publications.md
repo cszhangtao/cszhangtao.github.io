@@ -13,11 +13,11 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 ======
 Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "Characterizing Installation- and Run-Time Compatibility Issues in Android Benign Apps and Malware", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025.  
 
-Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Accepted, 2025.
-
 Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025. 
 
 Jiashuo Zhang, Jiachi Chen, Yiming Shen, **Tao Zhang**, Yanlin Wang, Ting Chen, Jianbo Gao, and Zhong Chen, "When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts", *IEEE Transactions on Software Engineering (TSE)*, Accepted, 2025. 
+
+Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
 
 2024
 ======
