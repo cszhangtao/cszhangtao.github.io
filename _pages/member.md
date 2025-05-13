@@ -26,12 +26,6 @@ Master Students
 - Ruixiong Yang (MUST, 09/2023-Present)
   - Research Interests: LLM for Automated Software Engineering Tasks
 
-- Xinyue Li (MUST, 09/2023-Present)
-  - Research Interests: LLM for Automated Software Engineering Tasks
-
-- Yiming Sun (MUST, 09/2023-Present)
-  - Research Interests: Automated Program Repair
-
 
 Alumni
 ------
@@ -44,6 +38,12 @@ Alumni
 
 - Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
+
+- Yiming Sun (Master, MUST, 09/2023-05/2025)
+  - Thesis: *Automatic Patch Backporting*
+    
+- Xinyue Li (Master, MUST, 09/2023-05/2025)
+  - Thesis: *A New Framework for Intelligent Log Analysis and Detection*
 
 - Hongrong Yin (Master, MUST, 01/2023-03/2025)
   - Thesis: *An Innovative Framework for Enhancing Bug Report Information*
