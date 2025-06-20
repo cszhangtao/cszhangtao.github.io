@@ -14,7 +14,7 @@ Postdoctoral Research Fellow
 - Yao Li (MUST, 02/2025-Present)
   - Research Interests: Malware Detection, Smart Contract Analysis
 
-Ph.D. Students
+PhD Students
 ------
 
 - Guocang Yang (MUST, 09/2023-Present)
@@ -27,13 +27,13 @@ Alumni
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
 
-- Yao Li (Ph.D., MUST, 09/2021-11/2024)
+- Yao Li (PhD, MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
 
-- Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
+- Dawei Yuan (PhD, MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
  
-- Ruixiong Yang (MUST, 09/2023-06/2025)
+- Ruixiong Yang (Master, MUST, 09/2023-06/2025)
   - Thesis: *Smart Contract Vulnerability Detection Based on Large Language Model*
 
 - Yiming Sun (Master, MUST, 09/2023-05/2025)
