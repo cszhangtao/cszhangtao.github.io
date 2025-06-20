@@ -20,12 +20,6 @@ Ph.D. Students
 - Guocang Yang (MUST, 09/2023-Present)
   - Research Interests: SQL, Database Systems
 
-Master Students
-------
-
-- Ruixiong Yang (MUST, 09/2023-Present)
-  - Research Interests: LLM for Automated Software Engineering Tasks
-
 
 Alumni
 ------
@@ -38,6 +32,9 @@ Alumni
 
 - Dawei Yuan (Ph.D., MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
+ 
+- Ruixiong Yang (MUST, 09/2023-06/2025)
+  - Thesis: *Smart Contract Vulnerability Detection Based on Large Language Model*
 
 - Yiming Sun (Master, MUST, 09/2023-05/2025)
   - Thesis: *Automatic Patch Backporting*
