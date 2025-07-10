@@ -6,6 +6,7 @@ author_profile: true
 ---
 - Conferences Co-Chair (Paper Awards), IEEE Computer Society Technical Community on Software Engineering (TCSE), 2025-2026
 - Chair, IEEE Macau Computer Society Chapter, 2025-Present
+- Associate Editor, IEEE Transactions on Reliability (TRel), 2025-Present
 - Associate Editor, IEEE Transactions on Software Engineering (TSE), 2024-Present
 - Associate Editor, Journal of Systems and Software (JSS), 2024-Present
 - Editorial Board Member, Empirical Software Engineering (EMSE), 2024-Present
