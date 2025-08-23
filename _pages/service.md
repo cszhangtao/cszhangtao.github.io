@@ -28,6 +28,7 @@ author_profile: true
 - General Co-Chair, 32nd Asia-Pacific Software Engineering Conference (APSEC 2025)
 - Financial Chair, 16th International Conference on Internetware (Internetware 2025)
 - Proceedings Co-Chair, 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)
+- PC Member, Industry Showcase Track, 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 - PC Member, 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)
 - PC Member, 47th International Conference on Software Engineering (ICSE 2025)
 - PC Member, 2nd International Symposium on Software Fault Prevention, Verification, and Validation (SFPVV 2025) 
