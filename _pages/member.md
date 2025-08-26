@@ -17,6 +17,12 @@ Postdoctoral Research Fellow
 PhD Students
 ------
 
+- Chuyue Wu (MUST, 09/2025-Present)
+  - Research Interests: Log Analysis and Program Repair
+    
+- Zhongzhi Chen (MUST, 09/2025-Present)
+  - Research Interests: AI for Software Engineering
+
 - Guocang Yang (MUST, 09/2023-Present)
   - Research Interests: SQL, Database Systems
 
