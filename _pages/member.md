@@ -22,6 +22,9 @@ PhD Students
     
 - Zhongzhi Chen (MUST, 09/2025-Present)
   - Research Interests: AI for Software Engineering
+ 
+- Yinggang Ling (MUST, 09/2025-Present)
+  - Research Interests: LLM for Automated Software Engineering  
 
 - Guocang Yang (MUST, 09/2023-Present)
   - Research Interests: SQL, Database Systems
