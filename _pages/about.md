@@ -32,7 +32,7 @@ Software Security
 
 1. Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task ([TOSEM'25](https://dl.acm.org/doi/10.1145/3720541))
 2. Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules ([TIFS'25](https://ieeexplore.ieee.org/document/10926491))
-3. Meta-Learning for Multi-Family Android Malware Classification ([TOSEM'24](/assets/TOSEM_2024.pdf))
+3. Meta-Learning for Multi-Family Android Malware Classification ([TOSEM'24](https://dl.acm.org/doi/10.1145/3664806))
 
 
 Mining Software Repositories
@@ -40,7 +40,7 @@ Mining Software Repositories
 > *"Tend to utilize information retrieval and machine learning technologies to mine meaningful information from software artifacts to help software developers increase the efficiency of software production."*
 
 1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews ([TSE'23](https://ieeexplore.ieee.org/document/10149402))
-2. Where2Change: Change Request Localization for App Reviews ([TSE'21](/assets/TSE_2021.pdf))
+2. Where2Change: Change Request Localization for App Reviews ([TSE'21](https://ieeexplore.ieee.org/document/8924692))
 
 
 Contact Information
