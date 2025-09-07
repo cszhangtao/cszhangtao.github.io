@@ -26,6 +26,7 @@ author_profile: true
 2025
 ======
 - General Co-Chair, 32nd Asia-Pacific Software Engineering Conference (APSEC 2025)
+- Program Co-Chair, 4th International Conference on Advanced Security on Software and Systems (ASSS 2025)
 - Financial Chair, 16th International Conference on Internetware (Internetware 2025)
 - Proceedings Co-Chair, 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)
 - PC Member, Industry Showcase Track, 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
