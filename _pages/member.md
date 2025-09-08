@@ -35,9 +35,11 @@ Alumni
 
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
+  - Employment: Lab Scientist, Yangzhou University, China
 
 - Yao Li (PhD, MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
+  - Employment: Postdoctoral Research Fellow, MUST, Macau SAR
 
 - Dawei Yuan (PhD, MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
@@ -62,27 +64,33 @@ Alumni
 
 - Zhengquan Li (Master, MUST, 09/2022-05/2024)
   - Thesis: *Guiding Users on How to Effectively Use Apps by Automated Responses*
+  - Higher Education: PhD student, The Hong Kong University of Science and Technology (Guangzhou), China
 
 - Junhao Chen (Master, MUST, 09/2022-05/2024)
   - Thesis: *Bug Discovery from App User Reviews Using Sentiment Analysis*
 
 - Xiaohui Wang (Master, MUST, 09/2021-07/2023)
   - Thesis: *Analyzing User Reviews for App Release Strategy*
+  - Higher Education: PhD student, University of Waterloo, Canada
 
 - Youshuai Tan (Master, MUST, 09/2021-06/2023)
   - Thesis: *STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews*
+  - Higher Education: PhD student, The Hong Kong University of Science and Technology (Guangzhou), China
 
 - Xiao Peng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Towards Context-Aware Based Bug Localization*
+  - Higher Education: PhD student, MUST, Macau SAR
 
 - Yutong He (Master, MUST, 09/2020-06/2022)
   - Thesis: *Q2Q: A Query-to-Query Neural Code Search Approach*
 
 - Zijie Chen (Master, MUST, 09/2020-06/2022)
   - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
+  - Higher Education: PhD student, MUST, Macau SAR
 
 - Jianwei Zeng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
+  - Employment: Software Engineer, Huawei, China
 
 - Lingze Meng (Master, MUST, 09/2019-09/2021)
   - Thesis: *Bug Report Enrichment Based on BERT Model*
