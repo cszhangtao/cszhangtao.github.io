@@ -35,14 +35,17 @@ Alumni
 
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
+  - Publications (First Author): 1*TIFS (CCF-A)
   - Employment: Lab Scientist, Yangzhou University, China
 
 - Yao Li (PhD, MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
+  - Publications (First Author): 2*TOSEM (CCF-A), 1\*TSE (CCF-A), 1\*The Computer Journal (CCF-B)
   - Employment: Postdoctoral Research Fellow, MUST, Macau SAR
 
 - Dawei Yuan (PhD, MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
+  - Publications (First Author): 1*Automated Software Engineering (CCF-B), 2\*TRel (JCR Q1), 1\*FCS (CCF-B), 1\*JSS (CCF-B)
  
 - Ruixiong Yang (Master, MUST, 09/2023-06/2025)
   - Thesis: *Smart Contract Vulnerability Detection Based on Large Language Model*
@@ -71,10 +74,12 @@ Alumni
 
 - Xiaohui Wang (Master, MUST, 09/2021-07/2023)
   - Thesis: *Analyzing User Reviews for App Release Strategy*
+  - Publications (First Author): 1*JSS (CCF-B)
   - Higher Education: PhD Student, University of Waterloo, Canada
 
 - Youshuai Tan (Master, MUST, 09/2021-06/2023)
   - Thesis: *STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews*
+  - Publications (First Author): 1*TSE (CCF-A)
   - Higher Education: PhD Student, The Hong Kong University of Science and Technology (Guangzhou), China
 
 - Xiao Peng (Master, MUST, 09/2020-06/2022)
@@ -86,10 +91,12 @@ Alumni
 
 - Zijie Chen (Master, MUST, 09/2020-06/2022)
   - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
+  - Publications (First Author): 1*QRS (CCF-C)
   - Higher Education: PhD Student, MUST, Macau SAR
 
 - Jianwei Zeng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
+  - Publications (First Author): 1*SCP (CCF-B), 1\*QRS (CCF-C)
   - Employment: Software Engineer, Huawei, China
 
 - Lingze Meng (Master, MUST, 09/2019-09/2021)
@@ -97,6 +104,7 @@ Alumni
 
 - Haoming Li (Master, HEU, 09/2017-03/2020)
   - Thesis: *The Research on Automatic Labeling Method for Mobile Application Issue Reports*
+  - Publications (First Author): 1*SEKE (CCF-C)
   
 
     
