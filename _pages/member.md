@@ -46,6 +46,7 @@ Alumni
 - Dawei Yuan (PhD, MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
   - Publications (First Author): 1*Automated Software Engineering (CCF-B), 2\*TRel (JCR Q1), 1\*FCS (CCF-B), 1\*JSS (CCF-B)
+  - Employment: Algorithm Engineer, Vesync Co., Ltd., USA
  
 - Ruixiong Yang (Master, MUST, 09/2023-06/2025)
   - Thesis: *Smart Contract Vulnerability Detection Based on Large Language Model*
@@ -55,12 +56,14 @@ Alumni
     
 - Xinyue Li (Master, MUST, 09/2023-05/2025)
   - Thesis: *A New Framework for Intelligent Log Analysis and Detection*
+  - Employment: Test Development Engineer, Lenovo, China
 
 - Hongrong Yin (Master, MUST, 01/2023-03/2025)
   - Thesis: *An Innovative Framework for Enhancing Bug Report Information*
 
 - Chang Hu (Master, MUST, 09/2022-06/2024)
   - Thesis: *Automatic Program Repair Based on Large Language Model*
+  - Employment: Platform Compiler Engineer, Fremont Micro Devices Co., Ltd., China
 
 - Yansheng Liao (Master, MUST, 09/2022-05/2024)
   - Thesis: *A New Framework for Security Bug Report Identification*
@@ -71,6 +74,7 @@ Alumni
 
 - Junhao Chen (Master, MUST, 09/2022-05/2024)
   - Thesis: *Bug Discovery from App User Reviews Using Sentiment Analysis*
+  - Employment: Information Center Officer, The 2nd Affiliated Hospital of Harbin Medical University, China
 
 - Xiaohui Wang (Master, MUST, 09/2021-07/2023)
   - Thesis: *Analyzing User Reviews for App Release Strategy*
@@ -88,6 +92,7 @@ Alumni
 
 - Yutong He (Master, MUST, 09/2020-06/2022)
   - Thesis: *Q2Q: A Query-to-Query Neural Code Search Approach*
+  - Employment: Shenzhen Lan-you Technology Co., Ltd., China
 
 - Zijie Chen (Master, MUST, 09/2020-06/2022)
   - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
