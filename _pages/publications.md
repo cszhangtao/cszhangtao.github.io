@@ -11,6 +11,8 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 
 2025
 ======
+Jican Zhang, Jianeng Zhang, Xin Shen, Lei Xue, Liming Nie, Fengwei Lin, Kefeng Wu, **Tao Zhang**, and Pingxin Du, "Rethinking Code Similarity: A Logic-Based Framework for Cross-Language Analysis beyond Functional Equivalence", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025.  
+
 Shuo Yang, Jiachi Chen, Lei Xiao, Jinyuan Hu, Dan Lin, Jiajing Wu, **Tao Zhang**, and Zibin Zheng, "Who is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks through State-Aware Dataflow Analysis", *IEEE Transactions on Software Engineering (TSE)*, Accepted, 2025.  
 
 Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "Characterizing Installation- and Run-Time Compatibility Issues in Android Benign Apps and Malware", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025.  
