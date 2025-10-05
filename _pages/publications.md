@@ -17,9 +17,9 @@ Shuo Yang, Jiachi Chen, Lei Xiao, Jinyuan Hu, Dan Lin, Jiajing Wu, **Tao Zhang**
 
 Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "Characterizing Installation- and Run-Time Compatibility Issues in Android Benign Apps and Malware", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025.  
 
-Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025. 
-
 Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
+
+Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 34, No. 8, Article No. 226, pp. 1-30, November 2025. 
 
 Zexu Wang, Jiachi Chen, **Tao Zhang**, Yu Zhang, Weizhe Zhang, Yuming Feng, and Zibin Zheng, "Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts", *Proc. of the ACM on Software Engineering (PACMSE-ISSTA'25)*, Vol. 2, No. ISSTA, Article ISSTA046, pp. 1031-1053, June 25-28, 2025.
 
