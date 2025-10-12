@@ -9,7 +9,7 @@ author_profile: true
 
 
 1. PI, **Large Language Model Unlearning in Conical Subspaces for Rapid Mitigation of Book Copyright Risks**,
-   supported by the *CCF-Huawei Populus Euphratica Fund*, CNY 500,000, 10/2025-10/2026, In progress.
+   supported by the *CCF-Huawei Populus Grove Fund*, CNY 500,000, 11/2025-10/2026, In progress.
 2. PI, **A Privacy Leakage Detection System for Mobile Applications Based on Large Language Model**,
    supported by the *Macao Science and Technology Development Fund (FDCT)*, MOP 785,400, 05/2024-05/2026, In progress.
 3. PI, **Ensemble Detection System Combining Family Information for Android Malware Detection**,
