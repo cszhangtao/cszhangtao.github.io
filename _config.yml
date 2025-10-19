@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tao Zhang (張濤)"
+title                    : "Tao Zhang"
 title_separator          : "-"
 name                     : &name "Tao Zhang"
 description              : &description "Professor at Macau University of Science and Technology"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tao Zhang (張濤)"
+  name             : "Tao Zhang"
   avatar           : "zhangtao.jpg"
   bio              : "Professor at Macau University of Science and Technology"
   location         : "Macau SAR"
