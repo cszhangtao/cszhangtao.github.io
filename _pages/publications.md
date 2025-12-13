@@ -9,11 +9,13 @@ author_profile: true
 
 More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https://scholar.google.com/citations?user=eMfANKoAAAAJ&hl=en)
 
+2026
+======
+Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "Characterizing Installation- and Run-Time Compatibility Issues in Android Benign Apps and Malware", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 1, Article No. 21, pp. 1-44, January 2026. 
+
 2025
 ======
 Jican Zhang, Jianeng Zhang, Xin Shen, Lei Xue, Liming Nie, Fengwei Lin, Kefeng Wu, **Tao Zhang**, and Pingxin Du, "Rethinking Code Similarity: A Logic-Based Framework for Cross-Language Analysis beyond Functional Equivalence", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025.  
-
-Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "Characterizing Installation- and Run-Time Compatibility Issues in Android Benign Apps and Malware", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 1, Article No. 21, pp. 1-44, January 2026. 
 
 Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
 
