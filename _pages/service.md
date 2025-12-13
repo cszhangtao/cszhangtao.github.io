@@ -13,7 +13,6 @@ author_profile: true
 - Editorial Board Member, Science of Computer Programming (SCP), 2024-Present
 - Editorial Board Member, Journal of Systems and Software (JSS), 2022-2024
 - Steering Committee Member, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023-Present
-- Board Member of Distinguished Reviewers, ACM Transactions on Software Engineering and Methodology (TOSEM), 2022-Present 
 - Referee of Top-tier Journals including ACM Computing Surveys (CSUR), ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), IEEE Transactions on Dependable and Secure Computing (TDSC), Empirical Software Engineering (EMSE), IEEE Software, Automated Software Engineering, Journal of Software: Evolution and Process (JSEP), Journal of Systems and Software (JSS), Information and Software Technology (IST), and Computers & Security. 
 
 2026
