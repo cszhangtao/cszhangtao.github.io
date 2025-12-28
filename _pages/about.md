@@ -37,7 +37,7 @@ Software Security
 
 Mining Software Repositories
 ------
-> *"Our group is dedicated to mine meaningful information from software artifacts such as user reviews by utilizing information retrieval and AI technologies to help software developers increase the efficiency of software development, testing, and maintenance."*
+> *"Our group is dedicated to mine meaningful information from massive software data such as user reviews by utilizing information retrieval and AI technologies to help software developers increase the efficiency of software development, testing, and maintenance."*
 
 1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews ([TSE'23](https://ieeexplore.ieee.org/document/10149402))
 2. Where2Change: Change Request Localization for App Reviews ([TSE'21](https://ieeexplore.ieee.org/document/8924692))
