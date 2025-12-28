@@ -21,14 +21,14 @@ Current Research
 
 AI for Software Engineering
 ------
-> *"Tend to utilize AI technologies such as neural language models and large language models to create a series of automated software engineering tools to help software engineers develop high-quality software products."*
+> *"Our group is dedicated to create a series of automated software engineering tools by utilizing AI technologies such as large language models (LLMs) to help software engineers develop high-quality software products."*
 
 1. Do Pretrained Language Models Indeed Understand Software Engineering Tasks? ([TSE'23](https://ieeexplore.ieee.org/document/10232920))
 2. RepresentThemAll: A Universal Learning Representation of Bug Reports ([ICSE'23](https://ieeexplore.ieee.org/document/10172597))
 
 Software Security
 ------
-> *"Tend to utilize static analysis, AI technologies, and formal methods to detect malware, vulnerabilities, and privacy leaks from software products such as mobile apps and smart contracts."*
+> *"Our group is dedicated to detect malware, vulnerabilities, and privacy leaks from software products such as mobile apps and smart contracts by utilizing static analysis, AI technologies, and formal methods."*
 
 1. Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task ([TOSEM'25](https://dl.acm.org/doi/10.1145/3720541))
 2. Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules ([TIFS'25](https://ieeexplore.ieee.org/document/10926491))
@@ -37,7 +37,7 @@ Software Security
 
 Mining Software Repositories
 ------
-> *"Tend to utilize information retrieval and machine learning technologies to mine meaningful information from software artifacts to help software developers increase the efficiency of software production."*
+> *"Our group is dedicated to mine meaningful information from software artifacts such as user reviews by utilizing information retrieval and AI technologies to help software developers increase the efficiency of software development, testing, and maintenance."*
 
 1. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews ([TSE'23](https://ieeexplore.ieee.org/document/10149402))
 2. Where2Change: Change Request Localization for App Reviews ([TSE'21](https://ieeexplore.ieee.org/document/8924692))
