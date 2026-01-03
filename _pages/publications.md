@@ -11,6 +11,8 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 
 2026
 ======
+Zhengquan Li, Yao Li, **Tao Zhang**, Cuiyun Gao, and Zishuo Ding, "Towards More Accurate App Review Response Generation with Fine-Grained Filtering", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2026. 
+
 Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "Characterizing Installation- and Run-Time Compatibility Issues in Android Benign Apps and Malware", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 1, Article No. 21, pp. 1-44, January 2026. 
 
 2025
