@@ -22,9 +22,10 @@ author_profile: true
 - Program Co-Chair, 19th CCF International Conference on Service Science (ICSS 2026)
 - PC Member, 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
 - PC Member, 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)
-- PC Member, 23rd IEEE/ACM International Conference on Mining Software Repositories (MSR 2026)
 - PC Member, 48th International Conference on Software Engineering (ICSE 2026)
 - PC Member, 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)
+- PC Member, 23rd IEEE/ACM International Conference on Mining Software Repositories (MSR 2026)
+- PC Member, 3rd International Symposium on Software Fault Prevention, Verification, and Validation (SFPVV 2025) 
   
 2025
 ======
@@ -59,8 +60,8 @@ author_profile: true
 - PC Member, 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 - PC Member, Demonstrations Track, 45th International Conference on Software Engineering (ICSE 2023)
 - PC Member, Demonstrations Track, 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
-- PC Member, 20th IEEE/ACM International Conference on Mining Software Repositories (MSR 2023)
 - PC Member, 34th IEEE International Symposium on Software Reliability Engineering (ISSRE 2023)
+- PC Member, 20th IEEE/ACM International Conference on Mining Software Repositories (MSR 2023)
 - PC Member, 30th Asia-Pacific Software Engineering Conference (APSEC 2023)
 - PC Member, 23rd IEEE International Conference on Software Quality, Reliability, and Security (QRS 2023)
 - PC Member, 14th Asia-Pacific Symposium on Internetware (Internetware 2023)
@@ -69,8 +70,8 @@ author_profile: true
 ======
 - Track Co-Chair, Software Engineering Track, 37th ACM/SIGAPP Symposium on Applied Computing (SAC 2022)
 - PC Member, 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022)
-- PC Member, 19th IEEE/ACM International Conference on Mining Software Repositories (MSR 2022)
 - PC Member, 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2022)
+- PC Member, 19th IEEE/ACM International Conference on Mining Software Repositories (MSR 2022)
 - PC Member, 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS 2022)
 - PC Member, 27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022)
 - PC Member, 16th International Conference on Network and System Security (NSS 2022)
