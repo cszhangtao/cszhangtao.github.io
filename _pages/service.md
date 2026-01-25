@@ -20,6 +20,7 @@ author_profile: true
 2026
 ======
 - Program Co-Chair, 19th CCF International Conference on Service Science (ICSS 2026)
+- PC Member, 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
 - PC Member, 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
 - PC Member, 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 - PC Member, 48th International Conference on Software Engineering (ICSE 2026)
