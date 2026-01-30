@@ -67,7 +67,7 @@ Alumni
 
 - Zhengquan Li (Master, MUST, 09/2022-05/2024)
   - Thesis: *Guiding Users on How to Effectively Use Apps by Automated Responses*
-  - Higher Education: PhD Student, The Hong Kong University of Science and Technology (Guangzhou), China
+  - Postgraduate Education: PhD Student, The Hong Kong University of Science and Technology (Guangzhou), China
 
 - Junhao Chen (Master, MUST, 09/2022-05/2024)
   - Thesis: *Bug Discovery from App User Reviews Using Sentiment Analysis*
@@ -75,15 +75,15 @@ Alumni
 
 - Xiaohui Wang (Master, MUST, 09/2021-07/2023)
   - Thesis: *Analyzing User Reviews for App Release Strategy*
-  - Higher Education: PhD Student, University of Waterloo, Canada
+  - Postgraduate Education: PhD Student, University of Waterloo, Canada
 
 - Youshuai Tan (Master, MUST, 09/2021-06/2023)
   - Thesis: *STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews*
-  - Higher Education: PhD Student, The Hong Kong University of Science and Technology (Guangzhou), China
+  - Postgraduate Education: PhD Student, The Hong Kong University of Science and Technology (Guangzhou), China
 
 - Xiao Peng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Towards Context-Aware Based Bug Localization*
-  - Higher Education: PhD Student, MUST, Macau SAR
+  - Postgraduate Education: PhD Student, MUST, Macau SAR
 
 - Yutong He (Master, MUST, 09/2020-06/2022)
   - Thesis: *Q2Q: A Query-to-Query Neural Code Search Approach*
@@ -91,7 +91,7 @@ Alumni
 
 - Zijie Chen (Master, MUST, 09/2020-06/2022)
   - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
-  - Higher Education: PhD Student, MUST, Macau SAR
+  - Postgraduate Education: PhD Student, MUST, Macau SAR
 
 - Jianwei Zeng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
