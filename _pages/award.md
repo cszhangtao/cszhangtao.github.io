@@ -5,6 +5,7 @@ title: "Awards and Honors"
 author_profile: true
 ---
 
+- Fellow, British Computer Society (BCS), February 2026
 - Distinguished Member, China Computer Federation (CCF), September 2025  
 - Top Reviewer Award 2023, Journal of Systems and Software (JSS), April 2024
 - Distinguished Reviewer in 2023, ACM Transactions on Software Engineering and Methodology (TOSEM), February 2024
