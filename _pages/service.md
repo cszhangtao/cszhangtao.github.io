@@ -27,6 +27,7 @@ author_profile: true
 - PC Member, 48th International Conference on Software Engineering (ICSE 2026)
 - PC Member, 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)
 - PC Member, 23rd IEEE/ACM International Conference on Mining Software Repositories (MSR 2026)
+- PC Member, Symposium on Software Engineering Technologies and Applications (SETA), 50th IEEE Annual Computers, Software, and Applications Conference (COMPSAC 2026)
 - PC Member, 3rd International Symposium on Software Fault Prevention, Verification, and Validation (SFPVV 2025) 
   
 2025
