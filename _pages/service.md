@@ -20,6 +20,7 @@ author_profile: true
 
 2027
 ======
+- General Co-Chair, 38th IEEE International Symposium on Software Reliability Engineering (ISSRE 2027)
 - PC Member, 49th International Conference on Software Engineering (ICSE 2027)
 
 2026
