@@ -9,8 +9,8 @@ author_profile: true
 - Associate Editor-in-Chief, IEEE Transactions on Software Engineering (TSE), 2026-Present
 - Associate Editor, IEEE Open Journal of the Computer Society (OJCS), 2026-Present
 - Associate Editor, IEEE Transactions on Reliability (TRel), 2025-Present
-- Associate Editor, IEEE Transactions on Software Engineering (TSE), 2024-Present
 - Associate Editor, Journal of Systems and Software (JSS), 2024-Present
+- Associate Editor, IEEE Transactions on Software Engineering (TSE), 2024-2026
 - Editorial Board Member, Empirical Software Engineering (EMSE), 2024-Present
 - Editorial Board Member, Science of Computer Programming (SCP), 2024-Present
 - Editorial Board Member, Journal of Systems and Software (JSS), 2022-2024
