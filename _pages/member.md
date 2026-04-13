@@ -39,7 +39,7 @@ Alumni
 
 - Yao Li (PhD, MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
-  - Employment: Postdoctoral Research Fellow, MUST, Macau SAR
+  - Employment: Postdoctoral Research Fellow, MUST, Macao SAR
 
 - Dawei Yuan (PhD, MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
@@ -83,7 +83,7 @@ Alumni
 
 - Xiao Peng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Towards Context-Aware Based Bug Localization*
-  - Postgraduate Education: PhD Student, MUST, Macau SAR
+  - Postgraduate Education: PhD Student, MUST, Macao SAR
 
 - Yutong He (Master, MUST, 09/2020-06/2022)
   - Thesis: *Q2Q: A Query-to-Query Neural Code Search Approach*
@@ -91,7 +91,7 @@ Alumni
 
 - Zijie Chen (Master, MUST, 09/2020-06/2022)
   - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
-  - Postgraduate Education: PhD Student, MUST, Macau SAR
+  - Postgraduate Education: PhD Student, MUST, Macao SAR
 
 - Jianwei Zeng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
