@@ -46,5 +46,5 @@ Mining Software Repositories
 
 Contact Information
 ======
-You can find me at A321, Macau University of Science and Technology, Taipa, Macau SAR, or send me an email via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*.
+You can find me at A321, Macau University of Science and Technology, Taipa, Macao SAR, or send me an email via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*.
 
