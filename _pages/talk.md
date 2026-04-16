@@ -4,6 +4,9 @@ title: "Selected Talks"
 permalink: /talk/
 author_profile: true
 ---
+Keynote Speaker, "**Intelligent Software Reliability and Security: Past, Present, and Future**", The 3rd International Conference on
+Software System and Information Processing (ICSSIP 2026), Lanzhou, China, November 27, 2026. 
+
 Keynote Speaker, "**AI-Powered Software Data Analysis for Automated Software Engineering**", The 10th International Conference on Computer Science and Application Engineering (CSAE 2026), Shanghai, China, October 17, 2026. 
 
 Keynote Speaker, "**AI and Automated Software Engineering: How Far Can We Go?**", The 16th International Conference on Software Engineering and Service Science (ICSESS 2025), Macao SAR, China, December 16, 2025. 
