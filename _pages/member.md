@@ -16,14 +16,20 @@ PhD Students
   - Research Interests: Log Analysis and Program Repair
     
 - Zhongzhi Chen (MUST, 09/2025-Present)
-  - Research Interests: AI for Software Engineering
+  - Research Interests: SQL Generation
  
 - Yinggang Ling (MUST, 09/2025-Present)
-  - Research Interests: LLM for Automated Software Engineering  
+  - Research Interests: LLM for Code Analysis
 
 - Guocang Yang (MUST, 09/2023-Present)
   - Research Interests: SQL, Database Systems
 
+Master Students
+------
+
+- Yuhui Zhou (MUST, 09/2025-Present)
+  - Research Interests: LLM and Agents
+    
 
 Alumni
 ------
