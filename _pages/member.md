@@ -8,11 +8,6 @@ author_profile: true
 
 <meta name="format-detection" content="telephone=no"/>
 
-Postdoctoral Research Fellow
-------
-
-- Yao Li (MUST, 02/2025-Present)
-  - Research Interests: Malware Detection, Smart Contract Analysis
 
 PhD Students
 ------
@@ -32,7 +27,9 @@ PhD Students
 
 Alumni
 ------
-
+- Yao Li (Postdoc, MUST, 02/2025-04/2026)
+  - Research Interests: Malware Detection
+  
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
   - Employment: Lab Scientist, Yangzhou University, China
