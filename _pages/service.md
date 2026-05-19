@@ -30,6 +30,7 @@ author_profile: true
 - PC Member, 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)
 - PC Member, 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 - PC Member, 48th International Conference on Software Engineering (ICSE 2026)
+- PC Member, 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)
 - PC Member, 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)
 - PC Member, 23rd IEEE/ACM International Conference on Mining Software Repositories (MSR 2026)
 - PC Member, Symposium on Software Engineering Technologies and Applications (SETA), 50th IEEE Annual Computers, Software, and Applications Conference (COMPSAC 2026)
