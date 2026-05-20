@@ -40,6 +40,7 @@ Alumni
 
 - Guocang Yang (PhD, MUST, 09/2023-05/2026)
   - Dissertation: *A Structured Input and Reasoning-Based Approach for SQL Generation with Multimodal Extensions*
+  - Employment: Bitget, Hong Kong SAR
 
 - Yao Li (PhD, MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
