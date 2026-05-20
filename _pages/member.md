@@ -21,8 +21,6 @@ PhD Students
 - Yinggang Ling (MUST, 09/2025-Present)
   - Research Interests: LLM for Code Analysis
 
-- Guocang Yang (MUST, 09/2023-Present)
-  - Research Interests: SQL, Database Systems
 
 Master Students
 ------
@@ -39,6 +37,9 @@ Alumni
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
   - Employment: Lab Scientist, Yangzhou University, China
+
+- Guocang Yang (PhD, MUST, 09/2023-05/2026)
+  - Dissertation: *A Structured Input and Reasoning-Based Approach for SQL Generation with Multimodal Extensions*
 
 - Yao Li (PhD, MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
