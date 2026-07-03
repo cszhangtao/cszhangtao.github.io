@@ -5,6 +5,7 @@ title: "Awards and Honors"
 author_profile: true
 ---
 
+- Distinguished Reviewer Award, 34th ACM International Conference on the Foundations of Software Engineering (FSE), July 2026
 - Distinguished Visitor, IEEE Computer Society, February 2026 
 - Fellow, British Computer Society (BCS), February 2026
 - Distinguished Member, China Computer Federation (CCF), September 2025  
