@@ -14,10 +14,7 @@ PhD Students
 
 - Chuyue Wu (MUST, 09/2025-Present)
   - Research Interests: Log Analysis and Program Repair
-    
-- Zhongzhi Chen (MUST, 09/2025-Present)
-  - Research Interests: SQL Generation
- 
+     
 - Yinggang Ling (MUST, 09/2025-Present)
   - Research Interests: LLM for Code Analysis
 
