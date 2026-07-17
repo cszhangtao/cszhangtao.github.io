@@ -11,6 +11,8 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 
 2026
 ======
+Jican Zhang, Jianeng Zhang, Xin Shen, Lei Xue, Liming Nie, Fengwei Lin, Kefeng Wu, **Tao Zhang**, and Pingxin Du, "Rethinking Code Similarity: A Logic-Based Framework for Cross-Language Analysis beyond Functional Equivalence", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 8, Article No. 227, pp. 1-31, August 2026. 
+
 Jianzhong Su, Mingxi Ye, Jiachi Chen, Yuhong Nan, Peilin Zheng, **Tao Zhang**, and Zibin Zheng, "Odyssey: Hunting Smart Contract Vulnerabilities with Fine-Grained State Modeling and Exploration", *Proc. of the ACM on Software Engineering (PACMSE-FSE'26)*, Vol. 3, No. FSE, Article FSE153, pp. 3463-3485, July 5-9, 2026.
 
 Zhengquan Li, Yao Li, **Tao Zhang**, Cuiyun Gao, and Zishuo Ding, "Towards More Accurate App Review Response Generation with Fine-Grained Filtering", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2026. 
@@ -19,8 +21,6 @@ Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "
 
 2025
 ======
-Jican Zhang, Jianeng Zhang, Xin Shen, Lei Xue, Liming Nie, Fengwei Lin, Kefeng Wu, **Tao Zhang**, and Pingxin Du, "Rethinking Code Similarity: A Logic-Based Framework for Cross-Language Analysis beyond Functional Equivalence", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2025.  
-
 Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
 
 Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 34, No. 8, Article No. 226, pp. 1-30, November 2025. 
