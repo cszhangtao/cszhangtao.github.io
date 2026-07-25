@@ -44,7 +44,7 @@ Mining Software Repositories
 
 AI, Database, and NLP
 ------
-> *"Besides our core research directions, our group actively pursues adjacent research interests in AI, Databases, and NLP. Investigating these cutting-edge domains equips us with the cross-disciplinary insights necessary to pioneer novel solutions and paradigms for our main research themes."*
+> *"Besides our core research directions, our group actively pursues adjacent research interests in AI, Database, and NLP. Investigating these cutting-edge domains equips us with the cross-disciplinary insights necessary to pioneer novel solutions and paradigms for our main research themes."*
 
 1. Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation ([TKDE'26](https://ieeexplore.ieee.org/document/11622876))
 
