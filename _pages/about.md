@@ -34,7 +34,6 @@ Software Security
 2. Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules ([TIFS'25](https://ieeexplore.ieee.org/document/10926491))
 3. Meta-Learning for Multi-Family Android Malware Classification ([TOSEM'24](https://dl.acm.org/doi/10.1145/3664806))
 
-
 Mining Software Repositories
 ------
 > *"Our group is dedicated to mining meaningful information from massive software data such as user reviews by utilizing information retrieval and AI technologies to help software developers increase the efficiency of software development, testing, and maintenance."*
@@ -42,6 +41,12 @@ Mining Software Repositories
 1. Towards More Accurate App Review Response Generation with Fine-Grained Filtering ([TOSEM'26](https://dl.acm.org/doi/10.1145/3786790))
 2. STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews ([TSE'23](https://ieeexplore.ieee.org/document/10149402))
 3. Where2Change: Change Request Localization for App Reviews ([TSE'21](https://ieeexplore.ieee.org/document/8924692))
+
+AI, Database, and NLP
+------
+> *"Besides our core research directions, our group actively pursues adjacent research interests in AI, Databases, and NLP. Investigating these cutting-edge domains equips us with the cross-disciplinary insights necessary to pioneer novel solutions and paradigms for our main research themes."*
+
+1. Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation ([TSE'26](https://ieeexplore.ieee.org/document/11622876))
 
 
 Contact Information
