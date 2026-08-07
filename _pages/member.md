@@ -93,7 +93,7 @@ Alumni
 
 - Jianwei Zeng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
-  - Publications (1st Author): 1\*SCP
+  - Publications (1st Author): 1\*SCP, 1\*QRS
 
 - Lingze Meng (Master, MUST, 09/2019-09/2021)
   - Thesis: *Bug Report Enrichment Based on BERT Model*
