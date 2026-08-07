@@ -33,19 +33,19 @@ Alumni
   
 - Jie Cai (RA, MUST, 06/2023-02/2024)
   - Research Interests: Vulnerability Detection in Smart Contracts
-  - Publications (1st Author): 1$\cdot$TIFS
+  - Publications (1st Author): 1\*TIFS
 
 - Guocang Yang (PhD, MUST, 09/2023-05/2026)
   - Dissertation: *A Structured Input and Reasoning-Based Approach for SQL Generation with Multimodal Extensions*
-  - Publications (1st Author): 1$\cdot$TKDE, 1$\cdot$Automated Software Engineering
+  - Publications (1st Author): 1\*TKDE, 1\*Automated Software Engineering
 
 - Yao Li (PhD, MUST, 09/2021-11/2024)
   - Dissertation: *Cognizant Detection of Android Malware: Intuitive Classification and Explication of Harmful Effects*
-  - Publications (1st Author): 2$\cdot$TOSEM, 1$\cdot$TSE, 1$\cdot$The Computer Journal
+  - Publications (1st Author): 2\*TOSEM, 1\*TSE, 1\*The Computer Journal
 
 - Dawei Yuan (PhD, MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
-  - Publications (1st Author): 2$\cdot$TRel, 1$\cdot$JSS, 1$\cdot$FCS, 1$\cdot$Automated Software Engineering
+  - Publications (1st Author): 2\*TRel, 1\*JSS, 1\*FCS, 1\*Automated Software Engineering
  
 - Ruixiong Yang (Master, MUST, 09/2023-06/2025)
   - Thesis: *Smart Contract Vulnerability Detection Based on Large Language Model*
@@ -58,7 +58,7 @@ Alumni
 
 - Hongrong Yin (Master, MUST, 01/2023-03/2025)
   - Thesis: *An Innovative Framework for Enhancing Bug Report Information*
-  - Publications (1st Author): 1$\cdot$Automated Software Engineering
+  - Publications (1st Author): 1\*Automated Software Engineering
 
 - Chang Hu (Master, MUST, 09/2022-06/2024)
   - Thesis: *Automatic Program Repair Based on Large Language Model*
@@ -68,18 +68,18 @@ Alumni
 
 - Zhengquan Li (Master, MUST, 09/2022-05/2024)
   - Thesis: *Guiding Users on How to Effectively Use Apps by Automated Responses*
-  - Publications (1st Author): 1$\cdot$TOSEM
+  - Publications (1st Author): 1\*TOSEM
  
 - Junhao Chen (Master, MUST, 09/2022-05/2024)
   - Thesis: *Bug Discovery from App User Reviews Using Sentiment Analysis*
 
 - Xiaohui Wang (Master, MUST, 09/2021-07/2023)
   - Thesis: *Analyzing User Reviews for App Release Strategy*
-  - Publications (1st Author): 1$\cdot$JSS
+  - Publications (1st Author): 1\*JSS
 
 - Youshuai Tan (Master, MUST, 09/2021-06/2023)
   - Thesis: *STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews*
-  - Publications (1st Author): 1$\cdot$TSE
+  - Publications (1st Author): 1\*TSE
 
 - Xiao Peng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Towards Context-Aware Based Bug Localization*
@@ -89,18 +89,18 @@ Alumni
 
 - Zijie Chen (Master, MUST, 09/2020-06/2022)
   - Thesis: *API Usage Pattern Recommendation Considering Human Intentions*
-  - Publications (1st Author): 1$\cdot$QRS
+  - Publications (1st Author): 1\*QRS
 
 - Jianwei Zeng (Master, MUST, 09/2020-06/2022)
   - Thesis: *Automatic Code Summarization Research Based on Graph Attention Mechanism*
-  - Publications (1st Author): 1$\cdot$SCP
+  - Publications (1st Author): 1\*SCP
 
 - Lingze Meng (Master, MUST, 09/2019-09/2021)
   - Thesis: *Bug Report Enrichment Based on BERT Model*
 
 - Haoming Li (Master, HEU, 09/2017-03/2020)
   - Thesis: *The Research on Automatic Labeling Method for Mobile Application Issue Reports*
-  - Publications (1st Author): 1$\cdot$SEKE
+  - Publications (1st Author): 1\*SEKE
   
 
     
