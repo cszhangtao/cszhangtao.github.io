@@ -11,7 +11,7 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 
 2026
 ======
-Guocang Yang, Victor Junqiu Wei, Yinggang Ling, and **Tao Zhang**, "Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation", *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Accepted, 2026.
+Guocang Yang, Victor Junqiu Wei, Yinggang Ling, and **Tao Zhang**, "Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation", *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Vol. 38, No. 10, pp. 7100 - 7113, October 2026.
 
 Zhengquan Li, Yao Li, **Tao Zhang**, Cuiyun Gao, and Zishuo Ding, "Towards More Accurate App Review Response Generation with Fine-Grained Filtering", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 9, Article No. 283, pp. 1-35, September 2026.  
 
