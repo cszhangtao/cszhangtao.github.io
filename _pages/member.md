@@ -11,6 +11,8 @@ author_profile: true
 
 PhD Students
 ------
+- Zimeng Jia (MUST, 09/2026-Present)
+  - Research Interests: Software Performance analysis
 
 - Chuyue Wu (MUST, 09/2025-Present)
   - Research Interests: Log Analysis and Program Repair
@@ -21,8 +23,10 @@ PhD Students
 
 Master Students
 ------
-
-- Yuhui Zhou (MUST, 09/2025-Present)
+- Tao Wei (MUST, 09/2026-Present)
+  - Research Interests: Computer Vision and Bug Analysis
+    
+- Yuhui Zhou (MUST, 01/2026-Present)
   - Research Interests: LLM and Agents
     
 
