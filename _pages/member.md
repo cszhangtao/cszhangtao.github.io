@@ -12,7 +12,7 @@ author_profile: true
 PhD Students
 ------
 - Zimeng Jia (MUST, 09/2026-Present)
-  - Research Interests: Software Performance analysis
+  - Research Interests: Software Performance Analysis
 
 - Chuyue Wu (MUST, 09/2025-Present)
   - Research Interests: Log Analysis and Program Repair
