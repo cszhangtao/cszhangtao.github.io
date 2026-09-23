@@ -25,6 +25,7 @@ author_profile: true
 - PC Member, Industry Track, 35th ACM International Conference on the Foundations of Software Engineering (FSE 2027)
 - PC Member, 49th International Conference on Software Engineering (ICSE 2027)
 - PC Member, 31st International Conference on Evaluation and Assessment in Software Engineering (EASE 2027)
+- PC Member, 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027)
 
 2026
 ======
