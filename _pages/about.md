@@ -23,8 +23,9 @@ AI for Software Engineering
 ------
 > *"Our group is dedicated to creating a series of automated software engineering tools by utilizing AI technologies such as large language models (LLMs) to help software engineers develop high-quality software products."*
 
-1. Do Pretrained Language Models Indeed Understand Software Engineering Tasks? ([TSE'23](https://ieeexplore.ieee.org/document/10232920))
-2. RepresentThemAll: A Universal Learning Representation of Bug Reports ([ICSE'23](https://ieeexplore.ieee.org/document/10172597))
+1. GHA-Agent: A Multi-Agent Framework for GitHub Actions Log Parsing ([TOSEM'26](https://dl.acm.org/doi/10.1145/3849478))
+2. Do Pretrained Language Models Indeed Understand Software Engineering Tasks? ([TSE'23](https://ieeexplore.ieee.org/document/10232920))
+3. RepresentThemAll: A Universal Learning Representation of Bug Reports ([ICSE'23](https://ieeexplore.ieee.org/document/10172597))
 
 Software Security
 ------
