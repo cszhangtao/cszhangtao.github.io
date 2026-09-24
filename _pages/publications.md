@@ -75,7 +75,7 @@ Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao
 
 Liu Wang, Haoyu Wang, Xiapu Luo, **Tao Zhang**, Shangguang Wang, and Xuanzhe Liu, "Demystifying "Removed Reviews" in iOS App Store", *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, November 14-18, 2022, *Proc. of ESEC/FSE'22: Industry Track*, pp. 1489-1499.
 
-He Ye, Matias Martinez, Xiapu Luo, **Tao Zhang**, and Martin Monperrus, "SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics", *Proc. of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE'22)*, October 10-14, 2022, *Proc. of ASE'22*, Article 92, pp. 1-13.
+He Ye, Matias Martinez, Xiapu Luo, **Tao Zhang**, and Martin Monperrus, "SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics", *The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE'22)*, October 10-14, 2022, *Proc. of ASE'22*, Article 92, pp. 1-13.
 
 2021
 ======
