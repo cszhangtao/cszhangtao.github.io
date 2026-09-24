@@ -19,7 +19,7 @@ Zhengquan Li, Yao Li, **Tao Zhang**, Cuiyun Gao, and Zishuo Ding, "Towards More 
 
 Jican Zhang, Jianeng Zhang, Xin Shen, Lei Xue, Liming Nie, Fengwei Lin, Kefeng Wu, **Tao Zhang**, and Pingxin Du, "Rethinking Code Similarity: A Logic-Based Framework for Cross-Language Analysis beyond Functional Equivalence", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 8, Article No. 227, pp. 1-31, August 2026. 
 
-Jianzhong Su, Mingxi Ye, Jiachi Chen, Yuhong Nan, Peilin Zheng, **Tao Zhang**, and Zibin Zheng, "Odyssey: Hunting Smart Contract Vulnerabilities with Fine-Grained State Modeling and Exploration", *The 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*, *Proc. of the ACM on Software Engineering*, Vol. 3, No. FSE, Article FSE153, pp. 3463-3485, July 5-9, 2026.
+Jianzhong Su, Mingxi Ye, Jiachi Chen, Yuhong Nan, Peilin Zheng, **Tao Zhang**, and Zibin Zheng, "Odyssey: Hunting Smart Contract Vulnerabilities with Fine-Grained State Modeling and Exploration", *The 34th ACM International Conference on the Foundations of Software Engineering (FSE'26)*, July 5-9, 2026, *Proc. of the ACM on Software Engineering*, Vol. 3, No. FSE, Article FSE153, pp. 3463-3485.
 
 Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "Characterizing Installation- and Run-Time Compatibility Issues in Android Benign Apps and Malware", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 1, Article No. 21, pp. 1-44, January 2026. 
 
@@ -31,19 +31,19 @@ Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware D
 
 Shuo Yang, Jiachi Chen, Lei Xiao, Jinyuan Hu, Dan Lin, Jiajing Wu, **Tao Zhang**, and Zibin Zheng, "Who is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks Through State-Aware Dataflow Analysis", *IEEE Transactions on Software Engineering (TSE)*, Vol. 51, No. 10, pp. 2942-2956, October 2025. 
 
-Zexu Wang, Jiachi Chen, **Tao Zhang**, Yu Zhang, Weizhe Zhang, Yuming Feng, and Zibin Zheng, "Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts", *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*, *Proc. of the ACM on Software Engineering*, Vol. 2, No. ISSTA, Article ISSTA046, pp. 1031-1053, June 25-28, 2025.
+Zexu Wang, Jiachi Chen, **Tao Zhang**, Yu Zhang, Weizhe Zhang, Yuming Feng, and Zibin Zheng, "Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts", *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*, June 25-28, 2025, *Proc. of the ACM on Software Engineering*, Vol. 2, No. ISSTA, Article ISSTA046, pp. 1031-1053.
 
-He Ye, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, **Tao Zhang**, and Claire Le Goues, "AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent", *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*, *Proc. of the ACM on Software Engineering*, Vol. 2, No. ISSTA, Article ISSTA062, pp. 1398-1420, June 25-28, 2025.
+He Ye, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, **Tao Zhang**, and Claire Le Goues, "AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent", *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*, June 25-28, 2025, *Proc. of the ACM on Software Engineering*, Vol. 2, No. ISSTA, Article ISSTA062, pp. 1398-1420.
 
 Jiashuo Zhang, Jiachi Chen, Yiming Shen, **Tao Zhang**, Yanlin Wang, Ting Chen, Jianbo Gao, and Zhong Chen, "When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts", *IEEE Transactions on Software Engineering (TSE)*, Vol. 51, No. 5, pp. 1381-1398, May 2025. 
 
 2024
 ======
-Liu Wang, Haoyu Wang, **Tao Zhang**, Haitao Xu, Guozhu Meng, Peiming Gao, Chen Wei, and Yi Wang, "Android Malware Family Labeling: Perspectives from the Industry", *Proc. of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)*, Industry Showcase Track, pp. 2176-2186, October 27-November 1, 2024.
+Liu Wang, Haoyu Wang, **Tao Zhang**, Haitao Xu, Guozhu Meng, Peiming Gao, Chen Wei, and Yi Wang, "Android Malware Family Labeling: Perspectives from the Industry", *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)*, October 27-November 1, 2024, *Proc. of ASE'24: Industry Showcase Track*, pp. 2176-2186.
 
 Yao Li, Dawei Yuan, **Tao Zhang**, Haipeng Cai, David Lo, Cuiyun Gao, Xiapu Luo, and He Jiang, “Meta-Learning for Multi-Family Android Malware Classification”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 7, Article No. 174, pp. 1-27, September 2024.
 
-Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *The 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)*, *Proc. of the ACM on Software Engineering*, Vol. 1, No. FSE, Article 97, pp. 2190-2213, July 15-19, 2024.
+Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *The 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)*, July 15-19, 2024, *Proc. of the ACM on Software Engineering*, Vol. 1, No. FSE, Article 97, pp. 2190-2213.
 
 Guodong Fan, Shizhan Chen, Cuiyun Gao, Jianmao Xiao, **Tao Zhang**, and Zhiyong Feng, "Rapid: Zero-shot Domain Adaptation for Code Search with Pre-trained Models", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 5, Article No. 128, pp. 1-35, June 2024.
 
@@ -57,7 +57,7 @@ Yao Li, **Tao Zhang**, Xiapu Luo, Haipeng Cai, Sen Fang, and Dawei Yuan, "Do Pre
 
 Youshuai Tan, Jinfu Chen, Weiyi Shang, **Tao Zhang**, Sen Fang, Xiapu Luo, Zijie Chen, and Shuhao Qi, "STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 8, pp. 4135-4151, August 2023.
 
-Sen Fang, **Tao Zhang**, Youshuai Tan, He Jiang, Xin Xia, and Xiaobing Sun, "RepresentThemAll: A Universal Learning Representation of Bug Reports", *Proc. of the 45th International Conference on Software Engineering (ICSE'23)*, pp. 602-614, May 14-20, 2023.
+Sen Fang, **Tao Zhang**, Youshuai Tan, He Jiang, Xin Xia, and Xiaobing Sun, "RepresentThemAll: A Universal Learning Representation of Bug Reports", *The 45th International Conference on Software Engineering (ICSE'23)*, May 14-20, 2023, *Proc. of ICSE'23*, pp. 602-614.
 
 He Jiang, Yulong Li, Shikai Guo, Xiaochen Li, **Tao Zhang**, Hui Li, and Rong Chen, "DupHunter: Detecting Duplicate Pull Requests in Fork-Based Development", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 4, pp. 2920-2940, April 2023.
 
@@ -71,11 +71,11 @@ Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen
 ======
 Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, **Tao Zhang**, Bin Li, Jiale Zhang, and Sicong Cao, "SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models", *Empirical Software Engineering (EMSE)*, Vol. 27, No. 7, Article 171, December 2022. 
 
-Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search?", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, pp. 722-733, November 14-18, 2022.
+Yucen Shi, Ying Yin, Zhengkui Wang, David Lo, **Tao Zhang**, Xin Xia, Yuhai Zhao, and Bowen Xu, "How to Better Utilize Code Graphs in Semantic Code Search?", *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, November 14-18, 2022, *Proc. of ESEC/FSE'22*, pp. 722-733.
 
-Liu Wang, Haoyu Wang, Xiapu Luo, **Tao Zhang**, Shangguang Wang, and Xuanzhe Liu, "Demystifying "Removed Reviews" in iOS App Store", *Proc. of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, Industry Track, pp. 1489-1499, November 14-18, 2022.
+Liu Wang, Haoyu Wang, Xiapu Luo, **Tao Zhang**, Shangguang Wang, and Xuanzhe Liu, "Demystifying "Removed Reviews" in iOS App Store", *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'22)*, November 14-18, 2022, *Proc. of ESEC/FSE'22: Industry Track*, pp. 1489-1499.
 
-He Ye, Matias Martinez, Xiapu Luo, **Tao Zhang**, and Martin Monperrus, "SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics", *Proc. of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE'22)*, Article 92, pp. 1-13, October 10-14, 2022.
+He Ye, Matias Martinez, Xiapu Luo, **Tao Zhang**, and Martin Monperrus, "SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics", *Proc. of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE'22)*, October 10-14, 2022, *Proc. of ASE'22*, Article 92, pp. 1-13.
 
 2021
 ======
@@ -91,6 +91,6 @@ Yiran Shen, Chengwen Luo, Hongkai Wen, **Tao Zhang**, Wen Hu, and Daniela Rus, "
 
 He Jiang, Liming Nie, Zeyi Sun, Zhilei Ren, Weiqiang Kong, **Tao Zhang**, and Xiapu Luo, "ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets", *IEEE Transactions on Services Computing (TSC)*, Vol. 12, No. 1, pp. 34-46, January 2019.
 
-He Jiang, Jingxuan Zhang, Zhilei Ren, and **Tao Zhang**, "An Unsupervised Approach for Discovering Relevant Tutorial Fragments for APIs", *Proc. of the 39th International Conference on Software Engineering (ICSE'17)*, pp. 38-48, May 20-28, 2017.
+He Jiang, Jingxuan Zhang, Zhilei Ren, and **Tao Zhang**, "An Unsupervised Approach for Discovering Relevant Tutorial Fragments for APIs", *The 39th International Conference on Software Engineering (ICSE'17)*, May 20-28, 2017, *Proc. of ICSE'17*, pp. 38-48.
 
 Le Yu, **Tao Zhang**, Xiapu Luo, Lei Xue, and Henry Chang, "Toward Automatically Generating Privacy Policy for Android Apps", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 12, No. 4, pp. 865-880, April 2017.
