@@ -27,7 +27,7 @@ Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "
 
 2025
 ======
-Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li<sup>&#9993;</sup>, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
+Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
 
 Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 34, No. 8, Article No. 226, pp. 1-30, November 2025. 
 
