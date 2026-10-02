@@ -11,13 +11,13 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 
 2026
 ======
-Chuyue Wu, Mingyuan Zhang, Yinggang Ling, Pinjia He, Sijie Xu, Yao Li, and **Tao Zhang**<sup>&#9993;&#65039;</sup> , "GHA-Agent: A Multi-Agent Framework for GitHub Actions Log Parsing", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2026.  
+Chuyue Wu, Mingyuan Zhang, Yinggang Ling, Pinjia He, Sijie Xu, Yao Li, and **Tao Zhang**<sup>&#9993;</sup>, "GHA-Agent: A Multi-Agent Framework for GitHub Actions Log Parsing", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2026.  
 
 Zhengquan Li, Zhenhao Li, Sidong Feng, Cuiyun Gao, **Tao Zhang**, and Zishuo Ding, "Bridging User Feedback and System Diagnosis: Reproducing Mobile Performance Issues from Reviews", *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*, October 4-9, 2026, *Proc. of the ACM on Software Engineering*, Vol. 3, No. ISSTA, Article ISSTA098, pp. 2248-2271.
 
-Guocang Yang, Victor Junqiu Wei, Yinggang Ling, and **Tao Zhang**, "Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation", *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Vol. 38, No. 10, pp. 7100-7113, October 2026.
+Guocang Yang, Victor Junqiu Wei, Yinggang Ling, and **Tao Zhang**<sup>&#9993;</sup>, "Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation", *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Vol. 38, No. 10, pp. 7100-7113, October 2026.
 
-Zhengquan Li, Yao Li, **Tao Zhang**, Cuiyun Gao, and Zishuo Ding, "Towards More Accurate App Review Response Generation with Fine-Grained Filtering", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 9, Article No. 283, pp. 1-35, September 2026.  
+Zhengquan Li, Yao Li, **Tao Zhang**<sup>&#9993;</sup>, Cuiyun Gao, and Zishuo Ding, "Towards More Accurate App Review Response Generation with Fine-Grained Filtering", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 9, Article No. 283, pp. 1-35, September 2026.  
 
 Jican Zhang, Jianeng Zhang, Xin Shen, Lei Xue, Liming Nie, Fengwei Lin, Kefeng Wu, **Tao Zhang**, and Pingxin Du, "Rethinking Code Similarity: A Logic-Based Framework for Cross-Language Analysis beyond Functional Equivalence", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 35, No. 8, Article No. 227, pp. 1-31, August 2026. 
 
@@ -27,9 +27,9 @@ Jiawei Guo, Xiaoqin Fu, Li Li, **Tao Zhang**, Mattia Fazzini, and Haipeng Cai, "
 
 2025
 ======
-Jie Cai, Jiachi Chen, **Tao Zhang**, Xiapu Luo, Xiaobing Sun, and Bin Li, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
+Jie Cai, Jiachi Chen, **Tao Zhang**<sup>&#9993;</sup>, Xiapu Luo, Xiaobing Sun, and Bin Li<sup>&#9993;</sup>, "Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 20, pp. 3662-3676, 2025.
 
-Yao Li, Sen Fang, **Tao Zhang**, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 34, No. 8, Article No. 226, pp. 1-30, November 2025. 
+Yao Li, Sen Fang, **Tao Zhang**<sup>&#9993;</sup>, and Haipeng Cai, “Enhancing Android Malware Detection: The Influence of ChatGPT on Decision-centric Task”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 34, No. 8, Article No. 226, pp. 1-30, November 2025. 
 
 Shuo Yang, Jiachi Chen, Lei Xiao, Jinyuan Hu, Dan Lin, Jiajing Wu, **Tao Zhang**, and Zibin Zheng, "Who is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks Through State-Aware Dataflow Analysis", *IEEE Transactions on Software Engineering (TSE)*, Vol. 51, No. 10, pp. 2942-2956, October 2025. 
 
@@ -43,7 +43,7 @@ Jiashuo Zhang, Jiachi Chen, Yiming Shen, **Tao Zhang**, Yanlin Wang, Ting Chen, 
 ======
 Liu Wang, Haoyu Wang, **Tao Zhang**, Haitao Xu, Guozhu Meng, Peiming Gao, Chen Wei, and Yi Wang, "Android Malware Family Labeling: Perspectives from the Industry", *The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24)*, October 27-November 1, 2024, *Proc. of ASE'24: Industry Showcase Track*, pp. 2176-2186.
 
-Yao Li, Dawei Yuan, **Tao Zhang**, Haipeng Cai, David Lo, Cuiyun Gao, Xiapu Luo, and He Jiang, “Meta-Learning for Multi-Family Android Malware Classification”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 7, Article No. 174, pp. 1-27, September 2024.
+Yao Li, Dawei Yuan, **Tao Zhang**<sup>&#9993;</sup>, Haipeng Cai, David Lo, Cuiyun Gao, Xiapu Luo, and He Jiang, “Meta-Learning for Multi-Family Android Malware Classification”, *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Vol. 33, No. 7, Article No. 174, pp. 1-27, September 2024.
 
 Haoran Yang, Yu Nong, **Tao Zhang**, Xiapu Luo, and Haipeng Cai, "Learning to Detect and Localize Multilingual Bugs", *The 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)*, July 15-19, 2024, *Proc. of the ACM on Software Engineering*, Vol. 1, No. FSE, Article 97, pp. 2190-2213.
 
@@ -55,11 +55,11 @@ Sicong Cao, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, 
 
 2023
 ======
-Yao Li, **Tao Zhang**, Xiapu Luo, Haipeng Cai, Sen Fang, and Dawei Yuan, "Do Pretrained Language Models Indeed Understand Software Engineering Tasks?", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 10, pp. 4639-4655, October 2023.
+Yao Li, **Tao Zhang**<sup>&#9993;</sup>, Xiapu Luo, Haipeng Cai, Sen Fang, and Dawei Yuan, "Do Pretrained Language Models Indeed Understand Software Engineering Tasks?", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 10, pp. 4639-4655, October 2023.
 
-Youshuai Tan, Jinfu Chen, Weiyi Shang, **Tao Zhang**, Sen Fang, Xiapu Luo, Zijie Chen, and Shuhao Qi, "STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 8, pp. 4135-4151, August 2023.
+Youshuai Tan, Jinfu Chen, Weiyi Shang, **Tao Zhang**<sup>&#9993;</sup>, Sen Fang, Xiapu Luo, Zijie Chen, and Shuhao Qi, "STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 8, pp. 4135-4151, August 2023.
 
-Sen Fang, **Tao Zhang**, Youshuai Tan, He Jiang, Xin Xia, and Xiaobing Sun, "RepresentThemAll: A Universal Learning Representation of Bug Reports", *The 45th International Conference on Software Engineering (ICSE'23)*, May 14-20, 2023, *Proc. of ICSE'23*, pp. 602-614.
+Sen Fang, **Tao Zhang**<sup>&#9993;</sup>, Youshuai Tan, He Jiang, Xin Xia, and Xiaobing Sun, "RepresentThemAll: A Universal Learning Representation of Bug Reports", *The 45th International Conference on Software Engineering (ICSE'23)*, May 14-20, 2023, *Proc. of ICSE'23*, pp. 602-614.
 
 He Jiang, Yulong Li, Shikai Guo, Xiaochen Li, **Tao Zhang**, Hui Li, and Rong Chen, "DupHunter: Detecting Duplicate Pull Requests in Fork-Based Development", *IEEE Transactions on Software Engineering (TSE)*, Vol. 49, No. 4, pp. 2920-2940, April 2023.
 
