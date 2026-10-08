@@ -13,6 +13,8 @@ More in [DBLP](https://dblp.org/pid/15/4777-1.html) and [Google Scholar](https:/
 ======
 Chuyue Wu, Mingyuan Zhang, Yinggang Ling, Pinjia He, Sijie Xu, Yao Li, and **Tao Zhang**, "GHA-Agent: A Multi-Agent Framework for GitHub Actions Log Parsing", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2026.  
 
+Kaiwen Ning, Jiachi Chen, Qingyuan Zhong, **Tao Zhang**, Yanlin Wang, Wei Li, Jingwen Zhang, Jianxing Yu, Yuming Feng, Weizhe Zhang, and Zibin Zheng, "MCGMark: An Encodable and Robust Online Watermark for Tracing LLM-Generated Malicious Code", *ACM Transactions on Software Engineering and Methodology (TOSEM)*, Accepted, 2026.  
+
 Zhengquan Li, Zhenhao Li, Sidong Feng, Cuiyun Gao, **Tao Zhang**, and Zishuo Ding, "Bridging User Feedback and System Diagnosis: Reproducing Mobile Performance Issues from Reviews", *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*, October 4-9, 2026, *Proc. of the ACM on Software Engineering*, Vol. 3, No. ISSTA, Article ISSTA098, pp. 2248-2271.
 
 Guocang Yang, Victor Junqiu Wei, Yinggang Ling, and **Tao Zhang**, "Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation", *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Vol. 38, No. 10, pp. 7100-7113, October 2026.
