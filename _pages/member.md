@@ -16,6 +16,7 @@ PhD Students
 
 - Chuyue Wu (MUST, 09/2025-Present)
   - Research Interests: Log Analysis and Program Repair
+  - Publications (1st Author): 1\*TOSEM
      
 - Yinggang Ling (MUST, 09/2025-Present)
   - Research Interests: LLM for Code Analysis
