@@ -28,7 +28,7 @@ Master Students
   - Research Interests: Computer Vision and Bug Analysis
     
 - Yuhui Zhou (MUST, 01/2026-Present)
-  - Research Interests: LLM and Agents
+  - Research Interests: LLMs and Agents
     
 
 Alumni
@@ -50,7 +50,7 @@ Alumni
 
 - Dawei Yuan (PhD, MUST, 09/2020-11/2023)
   - Dissertation: *Detecting Smart Contract Vulnerabilities through Analysis of Control and Data Flow in Code Call Graphs*
-  - Publications (1st Author): 2\*TRel, 1\*JSS, 1\*FCS, 1\*Automated Software Engineering
+  - Publications (1st Author): 1\*TOSEM, 2\*TRel, 1\*JSS, 1\*FCS, 1\*Automated Software Engineering
  
 - Ruixiong Yang (Master, MUST, 09/2023-06/2025)
   - Thesis: *Smart Contract Vulnerability Detection Based on Large Language Model*
