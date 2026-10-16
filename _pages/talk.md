@@ -13,6 +13,8 @@ Keynote Speaker, "**Intelligent Software Reliability and Security: Past, Present
 
 Keynote Speaker, "**AI-Powered Software Data Analytics: A Research Roadmap**", The 3rd International Symposium on Parallel Computing and Distributed Systems (PCDS 2026), Singapore, November 16, 2026. 
 
+Invited Speaker, "**AI-Powered Software Reliability and Security: Past, Present, and Future (AI赋能的软件可靠性与安全性研究：过去，现在，未来)**", AI Operating System (AIOS) and Software Security Forum (人工智能操作系统（AIOS）与软件安全论坛), 2026 CCF China Software Conference (ChinaSoft 2026, 中国软件大会), Tianjin, China, November 6, 2026. 
+
 Keynote Speaker, "**AI and Automated Software Engineering: How Far Can We Go?**", The 16th International Conference on Software Engineering and Service Science (ICSESS 2025), Macao SAR, China, December 16, 2025. 
 
 Invited Speaker, "**Advanced Explorations in Intelligent Software Data Analytics (软件数据智能化分析的前沿探索)**", The 27th GOPS Global Operations Conference (第27届GOPS全球运维大会), Shanghai, China, October 18, 2025. 
