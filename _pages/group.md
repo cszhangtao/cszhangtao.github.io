@@ -23,7 +23,7 @@ author_profile: true
 Program简介
 ------
 
->**全额奖学金博士生**
+>**奖学金资助博士生**
 
 招生要求
 1. 拥有较好的教育背景
@@ -55,7 +55,7 @@ Program简介
 
 >**博士后/研究助理/访问学生/访问学者**
 
-请直接与合作导师张涛教授通过邮件联系： *tazhang[at]must.edu.mo*或者*kerryking.tao[at]gmail.com*
+请直接通过邮件联系合作导师张涛教授： *tazhang[at]must.edu.mo*或*kerryking.tao[at]gmail.com*
 
 If you are interested in visiting our group, please contact Prof. Tao Zhang via *tazhang[at]must.edu.mo* or *kerryking.tao[at]gmail.com*
 
