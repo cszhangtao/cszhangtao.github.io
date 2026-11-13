@@ -18,6 +18,11 @@ author_profile: true
 - Board Member of Distinguished Reviewers, ACM Transactions on Software Engineering and Methodology (TOSEM), 2022-2024
 - Referee for top-tier journals including ACM Computing Surveys (CSUR), ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), IEEE Transactions on Dependable and Secure Computing (TDSC), Empirical Software Engineering (EMSE), IEEE Software, Automated Software Engineering, Journal of Software: Evolution and Process (JSEP), Journal of Systems and Software (JSS), Information and Software Technology (IST), and Computers & Security. 
 
+2028
+======
+- Proceedings Co-Chair, 50th International Conference on Software Engineering (ICSE 2028)
+
+
 2027
 ======
 - General Co-Chair, 38th IEEE International Symposium on Software Reliability Engineering (ISSRE 2027)
